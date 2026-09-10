@@ -1,18 +1,18 @@
 {
-    "lastRunAt":  "2026-09-10T20:27:30+09:00",
-    "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
-    "rawFolder":  "data/raw/2026-09-10_2027",
+    "lastRunAt":  "2026-09-10T20:49:42+09:00",
+    "lastSuccessAt":  "2026-09-10T20:49:42+09:00",
+    "rawFolder":  "data/raw/2026-09-10_2049",
     "sourcesTotal":  11,
     "sourcesSucceeded":  10,
-    "newArticles":  10,
-    "duplicatesSkipped":  627,
-    "totalArticles":  604,
+    "newArticles":  15,
+    "duplicatesSkipped":  621,
+    "totalArticles":  619,
     "tabCounts":  {
                       "ma":  88,
                       "kfood":  90,
-                      "kpol":  149,
-                      "kecon":  172,
-                      "world":  106
+                      "kpol":  158,
+                      "kecon":  175,
+                      "world":  109
                   },
     "sources":  [
                     {
@@ -24,7 +24,7 @@
                         "skipped":  false,
                         "count":  100,
                         "added":  0,
-                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "lastSuccessAt":  "2026-09-10T20:49:42+09:00",
                         "error":  ""
                     },
                     {
@@ -36,7 +36,7 @@
                         "skipped":  false,
                         "count":  100,
                         "added":  0,
-                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "lastSuccessAt":  "2026-09-10T20:49:42+09:00",
                         "error":  ""
                     },
                     {
@@ -47,8 +47,8 @@
                         "ok":  true,
                         "skipped":  false,
                         "count":  100,
-                        "added":  7,
-                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "added":  9,
+                        "lastSuccessAt":  "2026-09-10T20:49:42+09:00",
                         "error":  ""
                     },
                     {
@@ -60,7 +60,7 @@
                         "skipped":  false,
                         "count":  100,
                         "added":  1,
-                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "lastSuccessAt":  "2026-09-10T20:49:42+09:00",
                         "error":  ""
                     },
                     {
@@ -70,9 +70,9 @@
                         "url":  "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ko\u0026gl=KR\u0026ceid=KR:ko",
                         "ok":  true,
                         "skipped":  false,
-                        "count":  36,
-                        "added":  0,
-                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "count":  35,
+                        "added":  3,
+                        "lastSuccessAt":  "2026-09-10T20:49:42+09:00",
                         "error":  ""
                     },
                     {
@@ -83,8 +83,8 @@
                         "ok":  true,
                         "skipped":  false,
                         "count":  50,
-                        "added":  2,
-                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "added":  0,
+                        "lastSuccessAt":  "2026-09-10T20:49:42+09:00",
                         "error":  ""
                     },
                     {
@@ -96,7 +96,7 @@
                         "skipped":  false,
                         "count":  50,
                         "added":  0,
-                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "lastSuccessAt":  "2026-09-10T20:49:42+09:00",
                         "error":  ""
                     },
                     {
@@ -108,7 +108,7 @@
                         "skipped":  false,
                         "count":  50,
                         "added":  0,
-                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "lastSuccessAt":  "2026-09-10T20:49:42+09:00",
                         "error":  ""
                     },
                     {
@@ -119,8 +119,8 @@
                         "ok":  true,
                         "skipped":  false,
                         "count":  29,
-                        "added":  0,
-                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "added":  2,
+                        "lastSuccessAt":  "2026-09-10T20:49:42+09:00",
                         "error":  ""
                     },
                     {
@@ -132,7 +132,7 @@
                         "skipped":  false,
                         "count":  22,
                         "added":  0,
-                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "lastSuccessAt":  "2026-09-10T20:49:42+09:00",
                         "error":  ""
                     },
                     {

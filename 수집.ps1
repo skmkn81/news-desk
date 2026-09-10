@@ -155,6 +155,15 @@ if ($oldRaw) {
     try {
         $old = $oldRaw | ConvertFrom-Json
         foreach ($a in @($old.articles)) {
+            # JSON을 읽을 때 날짜 글자가 날짜 자료형으로 바뀌는 경우가 있습니다.
+            # 자료형이 섞이면 나중에 정렬이 실패하므로 전부 글자로 되돌립니다.
+            if ($a.date -is [datetime]) {
+                Set-Prop $a 'date' ($a.date.ToUniversalTime().ToString('yyyy-MM-ddTHH:mm:ssZ'))
+            } else {
+                Set-Prop $a 'date' ([string]$a.date)
+            }
+            Set-Prop $a 'collectedAt' ([string]$a.collectedAt)
+
             $lk = Get-LinkKey $a.link
             $tk = Get-TitleKey $a.title
             if ($lk -and $linkSeen.ContainsKey($lk))  { continue }
@@ -315,7 +324,12 @@ foreach ($src in @($cfg.sources)) {
 # ---------- 오래된 기사 정리 & 정렬 ----------
 
 $cutoff = $RunStart.ToUniversalTime().AddDays(-$keepDays).ToString('yyyy-MM-ddTHH:mm:ssZ')
-$final  = @($articles | Where-Object { $_.date -ge $cutoff } | Sort-Object -Property date -Descending)
+# 날짜는 반드시 글자로 비교·정렬합니다. (자료형이 섞이면 PowerShell 7에서 정렬이 실패합니다)
+$final  = @(
+    $articles |
+        Where-Object { ([string]$_.date) -ge $cutoff } |
+        Sort-Object -Property @{ Expression = { [string]$_.date } } -Descending
+)
 
 # ---------- 저장 ----------
 
