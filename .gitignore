@@ -1,0 +1,5 @@
+# 원본 XML은 용량이 커서 인터넷에 올리지 않습니다 (내 컴퓨터에만 보관)
+data/raw/
+
+# 화면은 news.js 만 있으면 되므로 json 은 올리지 않습니다
+data/news.json

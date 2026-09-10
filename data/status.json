@@ -1,0 +1,151 @@
+{
+    "lastRunAt":  "2026-09-10T20:27:30+09:00",
+    "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+    "rawFolder":  "data/raw/2026-09-10_2027",
+    "sourcesTotal":  11,
+    "sourcesSucceeded":  10,
+    "newArticles":  10,
+    "duplicatesSkipped":  627,
+    "totalArticles":  604,
+    "tabCounts":  {
+                      "ma":  88,
+                      "kfood":  90,
+                      "kpol":  149,
+                      "kecon":  172,
+                      "world":  106
+                  },
+    "sources":  [
+                    {
+                        "id":  "g-ma",
+                        "label":  "구글뉴스 · M\u0026A",
+                        "tab":  "ma",
+                        "url":  "https://news.google.com/rss/search?q=%22M%26A%22%20OR%20%EC%9D%B8%EC%88%98%ED%95%A9%EB%B3%91%20OR%20%EA%B2%BD%EC%98%81%EA%B6%8C%EB%A7%A4%EA%B0%81%20when%3A7d\u0026hl=ko\u0026gl=KR\u0026ceid=KR:ko",
+                        "ok":  true,
+                        "skipped":  false,
+                        "count":  100,
+                        "added":  0,
+                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "error":  ""
+                    },
+                    {
+                        "id":  "g-kfood",
+                        "label":  "구글뉴스 · K-푸드",
+                        "tab":  "kfood",
+                        "url":  "https://news.google.com/rss/search?q=K%ED%91%B8%EB%93%9C%20OR%20%EC%BC%80%EC%9D%B4%ED%91%B8%EB%93%9C%20OR%20%22%ED%95%9C%EC%8B%9D%20%EC%88%98%EC%B6%9C%22%20OR%20%EB%9D%BC%EB%A9%B4%EC%88%98%EC%B6%9C%20when%3A7d\u0026hl=ko\u0026gl=KR\u0026ceid=KR:ko",
+                        "ok":  true,
+                        "skipped":  false,
+                        "count":  100,
+                        "added":  0,
+                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "error":  ""
+                    },
+                    {
+                        "id":  "g-kpol",
+                        "label":  "구글뉴스 · 한국 정치",
+                        "tab":  "kpol",
+                        "url":  "https://news.google.com/rss/search?q=%EA%B5%AD%ED%9A%8C%20OR%20%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4%20OR%20%EC%97%AC%EC%95%BC%20OR%20%EA%B5%AD%EC%A0%95%EA%B0%90%EC%82%AC%20when%3A2d\u0026hl=ko\u0026gl=KR\u0026ceid=KR:ko",
+                        "ok":  true,
+                        "skipped":  false,
+                        "count":  100,
+                        "added":  7,
+                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "error":  ""
+                    },
+                    {
+                        "id":  "g-kecon",
+                        "label":  "구글뉴스 · 한국 경제",
+                        "tab":  "kecon",
+                        "url":  "https://news.google.com/rss/search?q=%EC%BD%94%EC%8A%A4%ED%94%BC%20OR%20%ED%99%98%EC%9C%A8%20OR%20%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20OR%20%22%ED%95%9C%EA%B5%AD%20%EA%B2%BD%EC%A0%9C%22%20when%3A2d\u0026hl=ko\u0026gl=KR\u0026ceid=KR:ko",
+                        "ok":  true,
+                        "skipped":  false,
+                        "count":  100,
+                        "added":  1,
+                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "error":  ""
+                    },
+                    {
+                        "id":  "g-world",
+                        "label":  "구글뉴스 · 세계 헤드라인",
+                        "tab":  "world",
+                        "url":  "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ko\u0026gl=KR\u0026ceid=KR:ko",
+                        "ok":  true,
+                        "skipped":  false,
+                        "count":  36,
+                        "added":  0,
+                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "error":  ""
+                    },
+                    {
+                        "id":  "hk-econ",
+                        "label":  "한국경제 · 경제",
+                        "tab":  "kecon",
+                        "url":  "https://www.hankyung.com/feed/economy",
+                        "ok":  true,
+                        "skipped":  false,
+                        "count":  50,
+                        "added":  2,
+                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "error":  ""
+                    },
+                    {
+                        "id":  "hk-poli",
+                        "label":  "한국경제 · 정치",
+                        "tab":  "kpol",
+                        "url":  "https://www.hankyung.com/feed/politics",
+                        "ok":  true,
+                        "skipped":  false,
+                        "count":  50,
+                        "added":  0,
+                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "error":  ""
+                    },
+                    {
+                        "id":  "hk-intl",
+                        "label":  "한국경제 · 국제",
+                        "tab":  "world",
+                        "url":  "https://www.hankyung.com/feed/international",
+                        "ok":  true,
+                        "skipped":  false,
+                        "count":  50,
+                        "added":  0,
+                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "error":  ""
+                    },
+                    {
+                        "id":  "sbs-econ",
+                        "label":  "SBS · 경제 (미리보기 있음)",
+                        "tab":  "kecon",
+                        "url":  "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=02",
+                        "ok":  true,
+                        "skipped":  false,
+                        "count":  29,
+                        "added":  0,
+                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "error":  ""
+                    },
+                    {
+                        "id":  "bbc-world",
+                        "label":  "BBC World (영문, 미리보기 있음)",
+                        "tab":  "world",
+                        "url":  "https://feeds.bbci.co.uk/news/world/rss.xml",
+                        "ok":  true,
+                        "skipped":  false,
+                        "count":  22,
+                        "added":  0,
+                        "lastSuccessAt":  "2026-09-10T20:27:30+09:00",
+                        "error":  ""
+                    },
+                    {
+                        "id":  "chosunbiz",
+                        "label":  "조선비즈 (연예 기사 섞임 · 기본 꺼둠)",
+                        "tab":  "kecon",
+                        "url":  "",
+                        "ok":  false,
+                        "skipped":  true,
+                        "count":  0,
+                        "added":  0,
+                        "lastSuccessAt":  "",
+                        "error":  "설정에서 꺼져 있음"
+                    }
+                ]
+}

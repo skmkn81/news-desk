@@ -1,0 +1,112 @@
+{
+  "_설명": "탭과 뉴스 출처 목록입니다. 검색어를 바꾸고 싶으면 query 값을, 출처를 끄고 싶으면 enabled 를 false 로 바꾸세요. 저장할 때 반드시 UTF-8 로 저장해야 한글이 깨지지 않습니다.",
+
+  "keepDays": 30,
+  "maxPerSource": 100,
+
+  "tabs": [
+    { "id": "ma",    "label": "M&A" },
+    { "id": "kfood", "label": "K-푸드" },
+    { "id": "kpol",  "label": "한국 정치" },
+    { "id": "kecon", "label": "한국 경제" },
+    { "id": "world", "label": "세계 뉴스" }
+  ],
+
+  "sources": [
+    {
+      "id": "g-ma",
+      "tab": "ma",
+      "label": "구글뉴스 · M&A",
+      "kind": "google-search",
+      "query": "\"M&A\" OR 인수합병 OR 경영권매각 when:7d",
+      "enabled": true
+    },
+    {
+      "id": "g-kfood",
+      "tab": "kfood",
+      "label": "구글뉴스 · K-푸드",
+      "kind": "google-search",
+      "query": "K푸드 OR 케이푸드 OR \"한식 수출\" OR 라면수출 when:7d",
+      "enabled": true
+    },
+    {
+      "id": "g-kpol",
+      "tab": "kpol",
+      "label": "구글뉴스 · 한국 정치",
+      "kind": "google-search",
+      "query": "국회 OR 대통령실 OR 여야 OR 국정감사 when:2d",
+      "enabled": true
+    },
+    {
+      "id": "g-kecon",
+      "tab": "kecon",
+      "label": "구글뉴스 · 한국 경제",
+      "kind": "google-search",
+      "query": "코스피 OR 환율 OR 기준금리 OR \"한국 경제\" when:2d",
+      "enabled": true
+    },
+    {
+      "id": "g-world",
+      "tab": "world",
+      "label": "구글뉴스 · 세계 헤드라인",
+      "kind": "google-topic",
+      "topic": "WORLD",
+      "enabled": true
+    },
+
+    {
+      "id": "hk-econ",
+      "tab": "kecon",
+      "label": "한국경제 · 경제",
+      "kind": "rss",
+      "url": "https://www.hankyung.com/feed/economy",
+      "publisher": "한국경제",
+      "enabled": true
+    },
+    {
+      "id": "hk-poli",
+      "tab": "kpol",
+      "label": "한국경제 · 정치",
+      "kind": "rss",
+      "url": "https://www.hankyung.com/feed/politics",
+      "publisher": "한국경제",
+      "enabled": true
+    },
+    {
+      "id": "hk-intl",
+      "tab": "world",
+      "label": "한국경제 · 국제",
+      "kind": "rss",
+      "url": "https://www.hankyung.com/feed/international",
+      "publisher": "한국경제",
+      "enabled": true
+    },
+    {
+      "id": "sbs-econ",
+      "tab": "kecon",
+      "label": "SBS · 경제 (미리보기 있음)",
+      "kind": "rss",
+      "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=02",
+      "publisher": "SBS",
+      "enabled": true
+    },
+    {
+      "id": "bbc-world",
+      "tab": "world",
+      "label": "BBC World (영문, 미리보기 있음)",
+      "kind": "rss",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "publisher": "BBC",
+      "enabled": true
+    },
+    {
+      "id": "chosunbiz",
+      "tab": "kecon",
+      "label": "조선비즈 (연예 기사 섞임 · 기본 꺼둠)",
+      "kind": "rss",
+      "url": "https://biz.chosun.com/arc/outboundfeeds/rss/?outputType=xml",
+      "publisher": "조선비즈",
+      "enabled": false
+    }
+  ]
+}
