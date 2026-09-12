@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
-  "generatedAt": "2026-09-12T07:01:32+09:00",
+  "generatedAt": "2026-09-12T18:11:01+09:00",
   "keepDays": 30,
   "tabs": [
     {
@@ -24,14 +24,2059 @@ window.NEWS_DATA = {
     }
   ],
   "tabCounts": {
-    "ma": 117,
-    "kfood": 122,
-    "kpol": 383,
-    "kecon": 447,
-    "world": 280
+    "ma": 120,
+    "kfood": 125,
+    "kpol": 461,
+    "kecon": 506,
+    "world": 318
   },
-  "total": 1341,
+  "total": 1521,
   "articles": [
+    {
+      "title": "Trump at residence of Irish president for first engagement during visit",
+      "preview": "Trump will hold meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+      "source": "BBC",
+      "date": "2026-09-12T08:53:02Z",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "BBC World (영문, 미리보기 있음)",
+      "feedId": "bbc-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "민주당 \"조희대, 제청권 정치 멈추고 신속 재제청하라\"",
+      "preview": "",
+      "source": "대전일보",
+      "date": "2026-09-12T08:45:00Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZZk9WU2xCVWxzQ1JyVXZzVzFWRXBsOVUyMng1SW5OVjQtVjJDREVNVlF6alNXM0dYQU5taFR0a2pkT0hnSXBoMTh1NFV4UHlvcUdVWUpEcHNJYl9WNGxfTGZiaDU4dlVodlZNeExScw?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "농식품부 송미령 장관, 추석 성수품 공급·유통 점검",
+      "preview": "▲ 추석 성수품 공급·유통 현장 점검하는 송미령 농림축산식품부 장관송미령 농림축산식품부 장관은 12일 경기도 안성시 과수 거점 산지유…",
+      "source": "SBS",
+      "date": "2026-09-12T08:44:00Z",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749945",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "SBS · 경제 (미리보기 있음)",
+      "feedId": "sbs-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "“국정목표 1번은 개헌…앗 실수”국회 대정부질문 화제의 말말말",
+      "preview": "",
+      "source": "문화일보",
+      "date": "2026-09-12T08:29:59Z",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kSlZmV1JES014UmIzZEoxV2ZlMUFwM01rZWxQNjN0MGxXWUUwRVVPQVVaTTJwVUpwaGctekFDR1FrTXFlR1BXZmZiZDJXRVk0?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "국제유가 폭등하는데…李 \"전혀 걱정하지 않으셔도 돼\"",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T08:25:36Z",
+      "link": "https://www.hankyung.com/article/2026091203567",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "한국경제 · 정치",
+      "feedId": "hk-poli",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "뒤집힌 배 붙잡고 이틀 버텼다…15세 소년, 바다서 기적 생환",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T08:14:00Z",
+      "link": "https://www.hankyung.com/article/2026091203507",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "한국경제 · 국제",
+      "feedId": "hk-intl",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "여야, ‘대법관 재제청’ 두고 공방",
+      "preview": "",
+      "source": "v.daum.net",
+      "date": "2026-09-12T08:10:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5seXpPcmhHY3ZsakVLUDl2elJLaWZueGROd3ZzaV9FUnphRDltY3NJQnU5c3lpVGNkVlVub0ptX1BWNUtjUnQ0eWs3MEhzSHM?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "[증시 동향] 7000선 넘나드는 코스피···다음주 ‘애프터마켓’ 개장",
+      "preview": "",
+      "source": "이뉴스투데이",
+      "date": "2026-09-12T08:09:43Z",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52cHNGTHc4dXdpNHluTEYzTW9vU2dzbGxvN053MVBIY2JFUHJ0cUJ6ZnJiR1JRb0pLRU8zMm9CTTRJX3ZpS2xGdWpRZ1RUZmhBbkdYekpMbWFvREVUM0o3Q2tkOFlFY2FjVVNua1p6X07SAXRBVV95cUxNTnpMcjM3S01HTW5oUXVtcGVRdXVkOFdKOURxNlZVQ3FFRUd2SU92T2k1eHFZM3lteklNWlFfaXJqOXJRX3k4RjNXcy14WmxXellLSTN6cU03Ykt3MnFTdzMzUUtIUVV2UFJkRU5zSVJJWFdQXw?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "preview": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+      "source": "BBC",
+      "date": "2026-09-12T08:04:16Z",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "BBC World (영문, 미리보기 있음)",
+      "feedId": "bbc-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "검찰 지휘 사라지는 근로감독관...비위징계 5년간 77건 [국회 방청석]",
+      "preview": "",
+      "source": "v.daum.net",
+      "date": "2026-09-12T08:03:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01NXEwdkJNZ3lTRzZxWEJTWTZtOTc0QXhnRVEwWGNZZ1JBcHdsY013bFFqNnFxNnFDQUwyQlgtT2ROSU5Jdm1SUWlkdHNkR28?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"오늘부터 휴대폰 요금 25% 할인\"…9년째 떠도는 가짜뉴스 [진영기의 커뮤 레이더]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T08:00:03Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUk5sa0tVeEFsLVlEOXk0ajctR3FEeDZoS2NLT3dLUHgyTjBRVHcwWXlMdGY2bHY3Q2FZb29kenMwMG5FcElBVFlQb0hKX3JOa3BueERxMGdSUQ?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"북한, IT기업 위장취업 새 수법…외국인 꾀어 대리면접\"",
+      "preview": "",
+      "source": "연합뉴스TV",
+      "date": "2026-09-12T07:59:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0VDNGTzRKRDR2SW5TVjlKb0pxNFgtN0Nsb2xpMFRORURsdmtYazhKUmhydWMzR1QyX1JHdWVXQU9vM0E1R2dudVZUTU5zcW1YNUdDRk5HN2tKX3hRZlhIclZ3ZlVuc0U?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "김민석 \"연대·합당 원칙은 경쟁력, 지분 나누기 없다\"",
+      "preview": "",
+      "source": "대전일보",
+      "date": "2026-09-12T07:53:00Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KTUhEVF9DM3JKMkpqdDBUcDRNS1JVLUtuZjV2MzcwdVlqLUxjeUkycDdMWHozTzFIVVpsZHJ6VzlhYzJuNmtRajk2TjRMZ1ItX1JjNkFRdi1LVm5pbGI3d1pLYTFHS3gtRFNYSFZHTQ?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "안민석 경기교육감, 여야 대표 만나 ‘교육재정·교권’ 입법 협조 요청",
+      "preview": "",
+      "source": "천지일보",
+      "date": "2026-09-12T07:38:31Z",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xYjY0YlI5ZWZQYmtFaVFvNWwxNzg4dVlQRjlaa2lnOUQ3Z2tnTWxYSXZzVEcwbmNXRjU3MmhGazlaWTZVVWxJQVRhSDRXSTE4U1V5MDFwNVJyek9CcVZTN2xHUzFqSlNMUXc?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "대법관 재제청 여야 공방…\"제청권 정치\" vs \"이 대통령 무죄용\"",
+      "preview": "",
+      "source": "sidae.com",
+      "date": "2026-09-12T07:26:44Z",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GRHFuTzFEdEZJMEtIRFcwejB1ci1OUXVybW15azBUa2NWQVh6ejdlaTkyTFo5cm9jVU5vcVk5ZnpVMkZfbUI3Y1RvLVlST3BCQjFCM2V2aVR2NFJ1VHc?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "연말 환율 1300원도 깨지나…원인 알아보니[주末머니]",
+      "preview": "",
+      "source": "v.daum.net",
+      "date": "2026-09-12T07:20:51Z",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtQWluY29DaTRYbFFIZk5sX2xkclhiZVhUWWxqUU81R3pka2c2SHpmY3JnbkFVazFzMWREaTlnaEQ0NVBoaE55V1hHTjFVU3M?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "쩐 탄 만 국회 의장의 한국과 몽골 방문은 많은 실질적인 성과를 가져왔습니다.",
+      "preview": "",
+      "source": "Vietnam.vn",
+      "date": "2026-09-12T07:19:50Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOczZUN2Q0eXRkRHZnbGdvT0Q2YWhvZEVCYkxQQS0wM1RFcWNCVUNILWJTeDAtV01Qa200MTBJLTFVZzlVR0FtWWlTX0U4UjY1WXRENXJ3ZU5JaUFpX1g5UV9SRFViNE85d29Vei1od3dnd1JGUms2MTgybEk3cmRUTU11V1VyZjJHOHJnWVVRWEFDT3NDS2x6OS13R08zTmh5TnJxVmU5WUdNOVBrRjhUNjNHb3BOOFV3YndtbEpPcw?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "“이 대통령 분당 아파트·대통령실 등 폭파시키겠다” 협박한 20대 징역 1년6월 실형",
+      "preview": "",
+      "source": "문화일보",
+      "date": "2026-09-12T07:14:04Z",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1SXBQYnZySWQxYXRsWjF6VnZvYUYxX2p5N3lHazE2aDItaWIzRmxaQWkzNThUMkF0cjJ1MFFaUDRrWUVrZjNGbjEzajVVWnY3?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"김정은 욕해봐\" 말 못하더니…北, 위장취업 새 수법 나왔다",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T07:09:15Z",
+      "link": "https://www.hankyung.com/article/2026091203257",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "한국경제 · 국제",
+      "feedId": "hk-intl",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "여야, 김민석 '서울시장 수첩' 공방...\"사법부 겁박\" vs \"호들갑\"",
+      "preview": "",
+      "source": "KBC광주방송",
+      "date": "2026-09-12T07:00:01Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDZ2pjZGl2bXVEWGJxTVZyZGhyR1paMHlzdDhVYWVZRnNVVW10c1NKNjhiLVdqdUo2ZzNZUFVQdUdoOEpIS3JfdUFIMDhyNU1PaDdxNlJkN2lLT1BJaWtHdA?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "北 미사일 쏘자 장동혁 “국방 포기한 대통령, 더는 대통령 아냐”",
+      "preview": "",
+      "source": "sisajournal.com",
+      "date": "2026-09-12T07:00:00Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mUjAtUUJKOW1nRGU1cDF4anpvTDFWUkYtcDFmNFE3YVVTU0t2QUFUVkZDSFBEZ0trUlFSaUlSQ0dfWTJMX3d1aWRySDFQeEwxV2h1dFRkQzllOU5leE80OXNobzJMT29MYkNOaXJrZ9IBc0FVX3lxTE56SS02R0lrbk9lWFU4QUNIeUsyRWdEMHdXWEE5emZPUWhtRzlranN1cjBTVU9HRjBtLXRBamROVGE4bHRQeEgtanB1T2dkaG1Da2F5eDJOV2cwRDNmUVdEU3ZoZVZjc3Z3LS1LM3BFeFIzeWM?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "‘호르무즈 우회로’ 원유 공급도 막히나…사우디 동서송유관 피격",
+      "preview": "",
+      "source": "한겨레",
+      "date": "2026-09-12T07:00:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMDZXQm5vcWFmMjdqbzZrNTFmSmkxY1IxMFR6UV9FMWNuUTBhckdpUnZrRTRBRnNSNGxMcXVFajhkSzFJS1B3cFJBLXBmamctdUhoMHVVYzJjXzgyQ2RrenRONk44Y09lb0xZemV2aEVPNFBOM3I0d0ZaOW1PcnJnbF9R?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "글로벌 K푸드 열풍의 이면… 국내 한식당 1년 새 6000곳 줄었다",
+      "preview": "",
+      "source": "아시아경제",
+      "date": "2026-09-12T06:59:20Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aQjlTbDAya3RLLXd2anBnOUNKYWtzSHBmQWFJN09PaWM3THZEd1VLRlBkVEg1MDU3UTNpN0RTc1A4bnhJSUdxSFoxenJRZ2puclFNTkxVdzRWZnB6N1U1Zw?oc=5",
+      "tab": "kfood",
+      "tabs": [
+        "kfood"
+      ],
+      "feed": "구글뉴스 · K-푸드",
+      "feedId": "g-kfood",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "미, 호르무즈 선박 호위 시간대 축소…장기전 대비하나",
+      "preview": "",
+      "source": "연합뉴스TV",
+      "date": "2026-09-12T06:56:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EMzAxSHRUcWhaYnhaU1g4YVJwejVWbkRkdlZueTRHTi1wYXMtS2VaNEg3S25KakNSM2NXeGNKOVdGdUVtU2JhODhvci13dl90MVZScXhtaHZSNXJjMFY4aXcwSU94TVU?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "미국은 왜 '엔화 약세'를 막으려 할까…월가가 엔화를 두려워하는 진짜 이유",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T06:49:20Z",
+      "link": "https://www.hankyung.com/article/202609106701i",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "한국경제 · 경제",
+      "feedId": "hk-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "[정치개혁Ⅱ-프롤로그] 정당은 자유롭게, 특권은 없게…‘당대표의 정치·교섭단체의 국회’를 끝내자",
+      "preview": "",
+      "source": "일요서울i",
+      "date": "2026-09-12T06:34:11Z",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GbkxfSldubl9uNUlncjZEM3Iydnd6OWhaYzl2T1RaWXZpQm9YTVFiYUpWVFFkUXY3ZDVCdDVFTmdsRFY5S0JRaU51UV9UNkJObnBEY0k1dXotTmpoVnBlQlJqaUcyTkp2YWxEaEJ3?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "'원유 길목' 호르무즈 또 흔들…美, 상선 호위 시간대 줄였다",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T06:31:36Z",
+      "link": "https://www.hankyung.com/article/2026091203057",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "한국경제 · 국제",
+      "feedId": "hk-intl",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "국회서 ‘대한민국 식품제조CEO 미래포럼’…AI·에너지전환·저탄소가 승부처",
+      "preview": "",
+      "source": "daehanilbo.co.kr",
+      "date": "2026-09-12T06:31:15Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nX2ZydVhzQXVRSnpOSVR5VHVyQ2ZhNU9qQUdOQnVYYTkyLTR1STBIc3MwN29GQ2lxLURrVVdSNVZrUU5NWVJlVjl6RUFWN3ZlcXlBaEFxZnNCTUxnUEdfWElLYTBMX25YUUtOckV2RQ?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "장동혁, 이재명 향해 “국방 포기한 대통령, 더는 대통령 아냐”",
+      "preview": "",
+      "source": "천지일보",
+      "date": "2026-09-12T06:23:08Z",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EbDlqRl83cjJacDAzNDZ3WnJYYXlIeUNPTWNFQk0xaTJPQm5ZTndaMnZ5Tnl4dmlpUzA1STNsSW5WMnRiQUhxWkswaTA3c2RneHlKN25VOE5iVXo2ODlYdDZMVzkyd0hHbnc?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "여야, 김민석 ‘서울시장 후보’ 수첩 공방…“사법부 겁박” “호들갑”",
+      "preview": "",
+      "source": "KBS 뉴스",
+      "date": "2026-09-12T06:17:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0TGhYeVd3R0UzT3BsRC1wX0lLeF9qOWlUTmZlS3pCTjI3YVJ0aGtFREI3M0dPejUzTm5Eb1JQM1EwYUZBSDBUQ1Uzdkxrdzdpd0lXaVZwM2c4ZlU?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "강무길 부산시의회 의장, 여야 협치로 조직개편·민생추경 처리",
+      "preview": "",
+      "source": "폴리뉴스 Polinews",
+      "date": "2026-09-12T06:10:42Z",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sbXRWN1BBSkJOczVWcUpUbXR1WE5ib1lHTDhTSWF0YUVtcnpPdlNjdGNxY2lZQ1FaWHZ5amk0SEZVV0RHX2NyeDJHem9UcnZUc2hreUp1U0Q0aWlhSWViaGJ5U2l4UGNwY0F2bjJn0gFyQVVfeXFMT1pIamVqVkNwbzU3Q25pRFN3Y29QSzZObU5mbHBuazlvLXlTdm5iY3I3TDdXek1MYzMtNzQzMVV6MGZzMEVndjBmd0tJdU9YaWxwY3psS0RacEN3RVRUR2JndzU5VVRPQklaX19Ob2JyRjJn?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "미국 “이란, 중국 위성사진 보고 미군 기지 공습”",
+      "preview": "",
+      "source": "경향신문",
+      "date": "2026-09-12T06:07:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04d1VEQ1I3a3puYlhiYzlWYzR3R3JXV2pJQWpJcjcxa05DVzk1S0NiTXFhWWMyeWNBeXlSSjNHLTNhVGNZcnlhS3RoQ3JtOXNvMGhtMlpIQi13d9IBX0FVX3lxTE1CTWhqenJkUTR4dXRNU09MX3pEeVBpQ2VNbVhvYnMyWGM5X1FTZGhETTZ5QkJmU1Y0WExpeDhSSlZfdXU0OENtTV9MX3JEMW5LblpvME5xcDFMcG5wbHhr?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"한 달만에 수익률 10%\"…발 빠른 개미들 돈 번 '비결' 있었다 [이수의 ETF줌인]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T06:00:03Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oSEtMNXlBSlJYN251S1NIVHdLcnNOUzQ1WkIxWVhYdWRqWVBTNmpsSk94UFRyYmRNSHhmZGJpNVpvTHlURFQtYzY3WWM2NDlwcWNSWXljNndkZw?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "preview": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "source": "BBC",
+      "date": "2026-09-12T05:55:15Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "BBC World (영문, 미리보기 있음)",
+      "feedId": "bbc-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "[2026 국감 이슈파이팅] 생활형숙박시설 용도변경",
+      "preview": "",
+      "source": "국토교통신문",
+      "date": "2026-09-12T05:51:13Z",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkZEhSd0FvRS15TWI2UjRlRWVLV3FLTmJsZXp0VlhIWEtUbTBMLW9nVWQzdlFSNXNqZjVmMERwNzhIakFfLWdzdGwyYTMzTW9kRGMzb1ZGN2JKWk1iQVl5UVEzaERlRHc?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "대한상공회의소 '기업 현장 목소리, 입법으로 잇는다..국회-경제계 입법 성과' 시동",
+      "preview": "",
+      "source": "전국구직노조신문",
+      "date": "2026-09-12T05:40:13Z",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSEltOEpVa0JUVGxycWtKaUFhMzREZll4YjluRWoxTDJIaUJpWjZFR0M4YUVOWWl1dTBSZGRlcWlIck5hZzAyNFJPV2F6WDhhY3FaSlpPSGpRbU1OUG5vNVZiajBDMEk?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "대통령실·청와대 폭파 협박글 20대, 징역 1년6월",
+      "preview": "",
+      "source": "채널A",
+      "date": "2026-09-12T05:40:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WaWItaGxGdDZJdGliOGxSeS1uVGNQYUtJaVUxai1KbXJfZEd2LUtfSUNkZ0xsaE92SzBRVGNrRk5zSUJOd1BvZVVPZks1Rlh0QkU0MG9fSlhSTVJBWlRDR2ZsNNIBY0FVX3lxTE5WaWItaGxGdDZJdGliOGxSeS1uVGNQYUtJaVUxai1KbXJfZEd2LUtfSUNkZ0xsaE92SzBRVGNrRk5zSUJOd1BvZVVPZks1Rlh0QkU0MG9fSlhSTVJBWlRDR2ZsNA?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"사법부 겁박\" vs \"억지 공세\"… 여야, 김민석 '서울시장 수첩' 놓고 정면충돌",
+      "preview": "",
+      "source": "gukjenews.com",
+      "date": "2026-09-12T05:34:35Z",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vdXZFQlRpWUFHWTlkQkREZUxUOUFVR0RsVEM5cTJ5RmpWa1FYZ0hNQWJkWWlkTGswckFXRGJVVEljeWwwV2R3bWlNZlFQb2gwSWVGeTJ4MzlUa2lPc2FDU2FNT3dNNVItUHN6Z3hB?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "반품 전자기기 971대 사라졌다…9억 빼돌린 범인 정체가",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T05:31:31Z",
+      "link": "https://www.hankyung.com/article/2026091202657",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "한국경제 · 경제",
+      "feedId": "hk-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "대통령실·청와대 폭파 협박글 7차례, 20대 징역 1년6월",
+      "preview": "",
+      "source": "뉴시스",
+      "date": "2026-09-12T05:20:11Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ya3dDZi0zeTdVTFZyUkhKNzhYakxoRktFQlZ0TktadUVsd2stNWZKV2hCRFZnQVBQRURjdTY3SkFRckt0MTctRm5Ha0g2MUtaVHFPS2FOb3U4YUNoaXpOYdIBeEFVX3lxTE53Xy1xMWhyYkpnVU1wQW94YUJDWDdDMzI0V21pZldLVzA4dm81ejdzTW8xUDVoWWpqSER1ZWY1cXlScG05eDMwODlzLV8zZ01RdGRpak1ocE9sWHhIYXFWanhIU1lxUmlvRVdIN2JsX1h5N1pUV2I3WA?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "변광용 거제시장, 지역 현안 건의 차 국회 방문",
+      "preview": "",
+      "source": "viva100.com",
+      "date": "2026-09-12T05:20:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGb19QV1BvOWNpRlFTVzYtVTNTUHkzSWdncV9ZSFhaMFoyUUNraXZ5SlQxVUhTYnZKNkswTUROU1BFWFZ5QUJqREpoZXhOSk1ESnVBdXY5eWtDdw?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "[특별기획-대한민국 ‘키드 정치’ 20년③] 성남·경기에서 여의도까지…‘이재명의 사람들’은 어떻게 국회에 들어왔나",
+      "preview": "",
+      "source": "일요서울i",
+      "date": "2026-09-12T05:07:04Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Oclc1RmdRMTQtTnV5T2RVS2N5ZWl1dWlRbk85OFY4dEMxYi1RQjdTbF8yT25lZVBlVDd1QU4yNGZfU1NDMTZYRWlGLXRaYV8yOTVQNlQzZXRZMWxZR25OODJxb0ZmN3JTYmFUNU5jNA?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"이게 그렇게 맛있나\"…'품절 대란' 280만캔 팔린 술 [권용훈의 트렌드워치]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T05:00:08Z",
+      "link": "https://www.hankyung.com/article/202609119876i",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "한국경제 · 경제",
+      "feedId": "hk-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "막대한 세수로 탄생한 미래기금…“중대한 목적 변경은 국회 승인받아야” 쏟아지는 제언들",
+      "preview": "",
+      "source": "세계일보",
+      "date": "2026-09-12T05:00:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yMW4tbElMd1dQZUpDYXljQ0NiN1h5VENjdEM1UV9SS1g1dXNaZ1JuRnlrTUEtUGhpSTBJM2lsV0x1LUVkX2x4OUNXWXI2RzhPSkpnV9IBVEFVX3lxTE9yMW4tbElMd1dQZUpDYXljQ0NiN1h5VENjdEM1UV9SS1g1dXNaZ1JuRnlrTUEtUGhpSTBJM2lsV0x1LUVkX2x4OUNXWXI2RzhPSkpnVw?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "[2026 국감 이슈파이팅] 집을 짓기 위해 주민부터 내보낸다",
+      "preview": "",
+      "source": "국토교통신문",
+      "date": "2026-09-12T04:48:04Z",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04ZWdGelpDZlRUcEU1NE1hNFd3X1ZDVGEzQjNjQVlrMjdkdGpvR1pSNk5IQmwybGJNSzQzc0dGNk1hZDVWcmJXSVl3anJXTVJMYkk2U0tndWdXYkxZemNUVk5sUUt1V0U?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "여야, 김민석 수첩 공방‥\"사법부 겁박\" \"억지 호들갑\"",
+      "preview": "",
+      "source": "MBC 뉴스",
+      "date": "2026-09-12T04:46:09Z",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lcUxxTDNnTTN5dDNpZExRd3RXdVczSDNLYlJSSXpsWEhULWdBb0xtRG9wS2RxQmQ5MXFkTkc3SEN1MTJ6SURlVkpUWXg2TU9kTEFXdGt1dGNpMEd3UDBzQmpWZHRXb3ZhM1c1dUVnTUpLSHdHUHFTNtIBeEFVX3lxTE9XOGpOS3JibGU3OFpsajdFUE5Sb3FNNkF6WlhYb2lFRXluVWZuZ3FJVVg3RmJxLVotSEpzNWkwVGxsOTFtaUJ1c0dNczRsSXJudGJ6V3NfQ19FLXl6YXFkTi1GanVlaGhNM2xSOV9QSThJblFOczQwMQ?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "김민석 '서울시장 후보' 수첩에 여야 충돌…野 \"사법부 겁박\" 與 \"억지 공세\"",
+      "preview": "",
+      "source": "hidomin.com",
+      "date": "2026-09-12T04:43:24Z",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hbTRuNmRpMTFheVdHVkRlN2RyUEpnZ0NacnFRalFLNTlOYXIyLUhkTm5RWHIwQlAzb19QeDhBRWsyRVZKREpaQl8yZktGZkhrXzNfU1Z0VjZEWlYyS0VGOU52SE1idDJjYnc?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "중고차 성능보험 손해율 급감 보상은 오히려 줄었다!",
+      "preview": "",
+      "source": "뉴스데일리",
+      "date": "2026-09-12T04:43:20Z",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XZGlFeS1rbUxXU3g3V0x5blBYTU1mVW1GN0FuZWtza3BweTZKekpOTnFlbFFwZzFHbFNEX2VNVHhHcnRvSDhxVHFLS2w0NlRPT1F5dU1UQ3Brck5KbDdqbF9yY2NoQmx1ejNN?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "preview": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "source": "BBC",
+      "date": "2026-09-12T04:43:10Z",
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "BBC World (영문, 미리보기 있음)",
+      "feedId": "bbc-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "9·11 테러 3년 전부터 경고 있었다…CIA, 기밀 71건 공개",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T04:41:04Z",
+      "link": "https://www.hankyung.com/article/2026091202397",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "한국경제 · 국제",
+      "feedId": "hk-intl",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "원-달러 환율 한때 1500원 돌파",
+      "preview": "",
+      "source": "미주조선일보",
+      "date": "2026-09-12T04:39:59Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQzVoTWVocllERkRPam1vYzJfWlZxOWZ2V3NlUi1XZmVsYXh2S2JqbW40X3ItU25ueUIwRXlTbDZ2RG1Pc0xCZFZrMFZJSWFPOWJndUpNc211NWVNdVJ4cjhSM0I2RllvM3RNbUNLY0ItUXlvS0tSYXNrQnFzWHh6MUhCR1ppRW1WZ3ZaSG1PTzh6bUdBTXBDWElIaXdOQQ?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "김민석 서울시장 후보 수첩에 여야 공방…與 억지 공세 VS 野 사법부 압박",
+      "preview": "",
+      "source": "아주경제",
+      "date": "2026-09-12T04:34:47Z",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GUWVISzdHUGF5UTU3MzBmRFZQbmVwdUhYbUl6U3kzaDdpMmxaeFVwV1V1VlVBd1JLcm94UUhPV3V1MHFFWHJWczFNUWxkUjRIa2h6VkY2TWbSAVhBVV95cUxPRlFlSEs3R1BheVE1NzMwZkRWUG5lcHVIWG1JelN5M2g3aTJsWnhVcFdVdVZVQXdSS3JveFFIT1d1dTBxRVhyVnMxTVFsZFI0SGtoelZGNk1m?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "김민석 ‘수첩 메모’ 노출에 여야 공방… “사법부 겁박” vs “호들갑”",
+      "preview": "",
+      "source": "천지일보",
+      "date": "2026-09-12T04:25:07Z",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ISmJpOFY2WkFTMU9iSTZtVmF4WUJ6YV9TcWxicVBRR2U4N3N2WEF3eEw3WEwwTHl3ZU1UUnFVVk1JOU02N3hxbjFmQjRaWDdOWWFpUnF1QVJ6NFNGNWhOM3Y5Y1F0S1BJN3c?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "‘김민석 수첩과 정청래 거부’ 민주당의 서울시장 김칫국 [여론 뒤집기]",
+      "preview": "",
+      "source": "이데일리TV",
+      "date": "2026-09-12T04:18:00Z",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWV0ZnNEk5bmt2VldDRXdnWGNoMFllSnl6blpEZVRyQzRCMlJUb3NwZkpvQWMxUHdha0Job2s1WGN5TkhOa1ZncXlVZTdKUlZiVU5KSWRwWS03ZkZ0X0ZYVmh5U200WjcyZTBBSWVZWGY2UHlmWHdRN0NEQQ?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "천안시, 국회서 우수 농특산물 직거래장터…‘하늘그린’ 알렸다",
+      "preview": "",
+      "source": "지이코노미",
+      "date": "2026-09-12T04:06:48Z",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iS2ktRTBQTm1weF8yUVNFeHBuSGJzWTJ2bTVSa3phVWk3bHFKWEZyNnVXajMtNmZITjBwTmJDYi1ydmNfQ0VVb28wSm5rNVNqZm52YzF3bWlzYXNHek1femx1NlVrNzg?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "김승원, 李 대통령 '공소 취소' 질문에 \"검찰 중립성 지키도록 지휘·감독\"",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T04:03:19Z",
+      "link": "https://www.hankyung.com/article/2026091202337",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "한국경제 · 정치",
+      "feedId": "hk-poli",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "김민석 ‘서울시장 후보 메모’ 포착…여야 ‘사법부 압박’ 공방",
+      "preview": "",
+      "source": "전국매일신문",
+      "date": "2026-09-12T04:02:00Z",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wbVFpU0VwTHp6WWVLSHU1Y0F6RTdtSmNpX0p2ZFA5ZHdxamFjazZrSnU1VWsteGk0amJvU0ZTUTEtUTg0YXdsNVVmX2x5X2J0aTJ6dVlscm96WkFmc0xsQktkemRZc0MwcTd5eWVB?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "손흥민·뷔 썼더니 대박?…\"아메리카노 50잔 더 팔아야\" [김소연의 얼굴전략]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T04:00:01Z",
+      "link": "https://www.hankyung.com/article/202609119173g",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "한국경제 · 경제",
+      "feedId": "hk-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "쩐 타인 먼 국회의장, 몽골 공식 방문 성공적 마무리",
+      "preview": "",
+      "source": "Thông tấn xã Việt Nam (TTXVN)",
+      "date": "2026-09-12T03:54:17Z",
+      "link": "https://news.google.com/rss/articles/CBMi9gVBVV95cUxOSnlGV2Q4UW1Hb2pYSy1FSUI3cXVOaVQySndIdkJCOHJhZWtkalh4QWtEbng3aUppaHNHZExJOGRoNE9xRWxfUFc1SEljaldVUWt2WHQyb0Fscm5ZMml0bmFVQjh1ZXEzWUdlRVJvTHlPcG5sRk1GQ0FRN3JuQVFhWXZfU3NKcHJMcWJNenc0TlhJaFdSQ2hGbjRFd0llVFdKbmtZcEh5c19lOVpvZG8tV1VrbFNwWEM1cXlqeEhjeEJteUFmTE10ODc0SmJyOEN3UGkyYzd5LWplSF9XX3dkaHNoUnVoS2RydFlQS3kxakI1elRxOW1La3BZb2FhOXZ6TDNrb3hIXzVYT3ZLeHlFZlptNHh6Z04xeWtpc0x6OFRKSHMyNExnY3BNTU0tUGN6M0hnWGVMTHJrUUhORlFIX1BlR1I5bGtEMmhhQ2FiMHVEbVplbVFDRzJ5MWVBX2VKNExKcTlxaGhLRVRmel8wM3ctWG44M0xJbXpuOE5oajhrY3ZrbWtvb2ZxM3FoLXdYU2FBZUE3eUxpSURXM2FKZVg1U1J5UzB0M3FGVmZWeGhVY09aRDNIaU1EWFhiaG5Bc1lBWUJqSFh6Q29hVm9oOE42ckl4LWUxQTR6MVhjWlJmQVVjcDVYNVZZSzhiTlZlTGUzYVBheThXdXpqbkhRc0dmMmNwOEhlNEJrQ3oweEoza1RqRjdFUndfd3FZWDJwclBiVUtJV0NHTDZ1RjZPQi1OVGVTVjdkYnFBeVplZDRIazVvWEY3TWY0NDBIZ1NRbXVRWXBST1pneDEzUVNkMXpwdEZYazN0My1TUHhUSl9iNG9Zbl9xcG16OHN5Tzd4WEE5WlhMWjIxZ25qNU5ERDdoTkFsbGpaQTNqX2Q4RkhwRFRWeFpSd3lhVjZmYWFoYWxBd1FWTUMyREJsTklDN3VseEc4elltaHBHbDIxZHhjd0FKTkRCUjVtcFc2NXlfUGdicVhseU9rOTFtTUlWaHk1dHlFdw?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "여야, 김민석 ‘서울시장 후보 수첩’ 놓고 공방",
+      "preview": "",
+      "source": "남도일보",
+      "date": "2026-09-12T03:43:32Z",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBleGh5OE1FRjJVUVlVSnRSTzVReGVLU3lWbWRjUHRLZGxVTm1Zc2paM05hYU5FSkdkb2I3Q3pLU2FkQzJYYzRoOFliQmxPUFRUXzB5enRFajJCMnZtNXYzYTN0MG1HYXZTY2ZLYdIBcEFVX3lxTE5xb0pkUFVrTzhBbTA0U0NXMjF2LVVvaDZNNW8teERPc0ZZdHluM2Vlbkl5VmxJbzdIVVQ0ZU5YU3dmYW5QM0Q4MUp2bTBBbU44bVc1Zms1ZXVXZzJURlExSGtsbVpBMHRfVnBhTXZuQkg?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "북한, 미사일 도발 의도는?...여야, 인사 논란 공방 격화",
+      "preview": "",
+      "source": "ytn.co.kr",
+      "date": "2026-09-12T03:40:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54U0dFVGh3R1VlMFNaSmw1UkdoNGZIcGdJVnowTUNHSTFGMWw4UDJSZUlnX0ljX21heHRmWkpYRTQxQXF4TG1FOS1xNm1lTlAzZUd3bzBWUTdYWXNCTHc?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "“서울시장 벌써 정했나”…김민석 수첩에 발칵 뒤집힌 여야, 사법부 겁박 공방전",
+      "preview": "",
+      "source": "세계일보",
+      "date": "2026-09-12T03:34:38Z",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCQ2RJZ0tiWnViX3NZZVdKcXVGdFAyYmk2S09BTjVUQm9LaVZiM2JiR0RVZEMyMHBfM0J6b2tFSDJjR1NWSmk2dW5IUkNTZDdQMUhoMW1QVnXSAVRBVV95cUxONG1qb0hCVHNUSl9Zazk1UWRzUmZkZEY2bHVJeU10OFFvU2xXOUhpVmpGZXRtNl9QMGszYnpROVc3MkJfbUstMFRHVHNmWDQ3NTVpUng?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "해외재단 돈 받고 ‘임무’ 수행한 기후솔루션 공동창립자 이소영은 국감·입법으로 지원사격",
+      "preview": "",
+      "source": "뉴스데일리",
+      "date": "2026-09-12T03:29:27Z",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiRmtTOVlYRmhOdXZXdDVmT0ZPbXlWTGR4YlN1TG5Cc29IRHVHN0NwZTJveVkzalBpRFdqNUtEWHlaVlpoVkR3WjhOajIwY0dFZDQzV0xpcm1PVEFVNVB0eXRiVHlsd19PY2lF?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "국가안보실, 北 단거리 탄도미사일 발사 관련...긴급회의개최",
+      "preview": "",
+      "source": "SPN 서울평양뉴스",
+      "date": "2026-09-12T03:07:03Z",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HczZXVmNCNmxUZjBuMXZiVDd5Q2oyT0NrcE5nNDZmd2poVlkwT21qTUJRVTdWcTJiWDU2dTk5UEtETmNGbHp5N09hdHlMREJ1NHpUYWZhN1NfcDVFSlg1S1pHVDdvckI0NWpB?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "與 \"용혜인에 청년 여론 들끓어, 대책 필요\"…내일 고당서 논의하나",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T03:04:10Z",
+      "link": "https://www.hankyung.com/article/2026091202127",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "한국경제 · 정치",
+      "feedId": "hk-poli",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "preview": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "source": "BBC",
+      "date": "2026-09-12T03:02:28Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "BBC World (영문, 미리보기 있음)",
+      "feedId": "bbc-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "북한, 원산 일대서 탄도미사일 발사…한미일 정보 공유",
+      "preview": "",
+      "source": "뉴스포스트",
+      "date": "2026-09-12T03:02:02Z",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iLWIyNW1xeDlJdU94dGFremF1eVVaM1FxZkZ4dGdfSlYtTXNNNFpmS0p2VURoZnJqem83Q0ZWQVdfQUJ2d0ViS05YUDRXSTZWWEUyZVMyQWRHQ1hGcW1rbFoxUW9VaTA0?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "델타 이어 일본항공…한진가의 백기사들",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T03:00:04Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RZk9VbFRIS3VoQzJNQ1dnX0JfbzU3NFZSVkpSRTc5ZWRBcGoxQ3lMQVZMZDlrMGQzWGNVd2FPZlNhY1djczhtcGFQZ0lsT245Xzhhd29vOTJIZw?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "9·11때 아버지 잃은 딸, 테러 25주기 맞아 양키스타디움서 시구",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-12T02:56:54Z",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVZ0JqQzI4dkpwMTREam1XTHdiMEFvY3JuS0NSWXNOMWhlbjc1dHE0allHWGNKdFhJbC1zUlhKbDduX0ZBQ3lhYkk3SUVlYWhqcmhVN1F0cTlFVmPSAWBBVV95cUxOZW1uV3V6d2hpLVlxakJCdXZjRDVZWGl4UGV3SkQ1V1YtckhLck9aaTlLZG5HTFlVWDJ4azFzME1SSUExbDRldUJBWTRtSVJMNkFlcnVUN2VtUWJtaUNxclo?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "[미리보는 정기국회] 정기국회 본격화…TK 의원들, 2차 공공기관 이전·지역 현안 ‘총력’",
+      "preview": "",
+      "source": "v.daum.net",
+      "date": "2026-09-12T02:46:54Z",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50ckFPYVltbEZReVRJbzZnU3I4V3BPTkVfNFBnSFVzSWx6T3NEZDg1bGJ4bjk0R180ZWh5cWQxV0lGbDdkTjU5SHhKMVlRN3M?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "코스피, 반도체 타고 힘실렸는데…‘호르무즈 파병’ 암초 어쩌나 [증시레이더]",
+      "preview": "",
+      "source": "디지털데일리",
+      "date": "2026-09-12T02:42:30Z",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Qa3hYd05oQ1lsTmItMUgtd2JXYUdabzRsY19YUzNuaFhoNVBmT0QyYnRDU1RVS0dIQjBqNjdoRXdZU1AyZ0tYSThHTF8zdGJIZWxUQXdWd1A4eHNyZU5tQjgtcUQ?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "삼전직스 레버리지에 피눈물 났는데...‘롤러코스피’ 이유 있었다",
+      "preview": "",
+      "source": "v.daum.net",
+      "date": "2026-09-12T02:38:07Z",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5scnBGMl9BTWVaV0J6VmJadHF2MFN5Y3BTc1VqNnYzNFNScVYtTHdOT1lkWEdzakhxWFdFNnRMcjFoUkVoR2c?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "벌금 260억도 못 막았다…의사까지 투잡 뛰는 '대리모 공장' [차이나 워치]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T02:30:02Z",
+      "link": "https://www.hankyung.com/article/202609107630i",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "한국경제 · 경제",
+      "feedId": "hk-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+      "preview": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+      "source": "BBC",
+      "date": "2026-09-12T02:29:49Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "BBC World (영문, 미리보기 있음)",
+      "feedId": "bbc-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "안민석 경기도교육감, 여야 대표 만나 교권보호·교육재정 협조 요청",
+      "preview": "",
+      "source": "기호일보",
+      "date": "2026-09-12T02:23:00Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfd0JWbTRQQnJFajAwM09FS0UxRFBaTTBDclJrdVVFcm9XUHUxSEtDeWhzQzdDY19GX1hpZVdYMzBUWWE3bjUwd0N4VWJhR0NyUG5yNUpsNFU2NW84bXBodmxxOUJQZzRZa0hPWlFoMA?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "Fed·BOJ '긴축 주간'…코스피 7000 재탈환 시험대",
+      "preview": "",
+      "source": "블루밍비트",
+      "date": "2026-09-12T02:22:28Z",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jeG0wTWlueTctRlVsOGtxV2dRZkR2ZG5mWlJFa3RPRF94bmhUQWkxZGJxUVpFa2Z6S242SGxQbnpvQUc3SkhuYmcwWFQ1VDRf?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "‘性진국’ 일본의 자위대, 교수·NGO 등 민간인 성적 취향까지 수집 의혹…아사히 신문, 전직 조직원 제보 보도",
+      "preview": "",
+      "source": "문화일보",
+      "date": "2026-09-12T02:21:50Z",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IcUtwU1dWVllzVkwwX0JaMUZ2cWJUcW9XdjUwZFJwajlWS3RycGk5UEs5VWZ2SnQ3OXNRQ1dnYmNYZUV3Y1pjTDYxNjI5MGZW?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "기본소득당 대변인부터 하이닉스 파혼녀까지…한국인 '믿거문' [신현보의 딥데이터]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T02:13:23Z",
+      "link": "https://www.hankyung.com/article/202609118895H",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "한국경제 · 경제",
+      "feedId": "hk-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "박균택 의원, 우리 동네 더 안전하게 ‘밤길안전법’ 대표발의",
+      "preview": "",
+      "source": "뉴스데일리",
+      "date": "2026-09-12T02:12:15Z",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTNjFmQnhMRkhSbEpOVTQxUk9yT3MtMjNSZE5GVmU3ZWt4V1hyZS1KMmZ0NlZkN3ZpdW80eDlwa0hCbkxESHdTaFprUnVNY3drNmp1cW5PbFMtUUVzUlF5V1k1M2Rja3A0dF9n?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "CPI도 뜨거웠다…'빅위크'의 시작 [다음주 주요 변수 미리 보기]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T02:00:02Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEVEIxNXBIYTJuVGpNUjB3M0V1T25PRUNaLUNRTVljVDJtR3V4S2xIV2gzbkNPOHlBeTc2SzJXTHd4N2Foa2VpU204NW9aMXlvWHgtNVYyN1RZZw?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "한동훈 '총리실 직원 파면해야'…한성숙 '국민께 송구'",
+      "preview": "",
+      "source": "데일리한국",
+      "date": "2026-09-12T02:00:00Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16bU9SZnN4OGNteDdkVGxHNkVXeHV1N2h6VFlPcTFKSjRmeW9GRzAtcGYxZHQzeWtKdHdWU1pjekdkUkgzT1FYeUotSnBSSGRTTFNpYUhDeDBJUDhENU5rb1BOeng5V2ZUUzdITWdFc9IBc0FVX3lxTE9xWm1lX21oUXlQRTVoUzE1b2Rqa0VIWjBMazk3RkhfUGZrSkV3RllJLTNvckpRTV9IZWtCWVRRU2FxX2lpbWJIWjlCQlFQdE5idG9uY2h2b3o3QzZ2dUtTTDA0emVXNDNibzZVMnkyTV81cm8?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"남북경협이 평화의 길\", 국회서 다시 나온 '제2의 6·15'",
+      "preview": "",
+      "source": "v.daum.net",
+      "date": "2026-09-12T01:57:50Z",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oYU9GTXcwbG5RWG5kRVBLWDgxZTZVSkZzYjdpQlR3MTNPUmpwTDJ3ZUNKOUIzUkUzMXJ5U2RnWmlHcjdkZ0t4SFlNTm1zVUE?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "여야, ‘3대 메가 프로젝트·부동산 세제’ 정면충돌",
+      "preview": "",
+      "source": "스페셜경제",
+      "date": "2026-09-12T01:51:28Z",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PT0hVdUg5d201QVNxLXZWOHB3Tkp4QWdVNTZQSENJb2YxMVBWYWwyYno4UXBia3ZPdTlXdzVtc1J3Z1NUTThTQlFJZk15bk1JT1NhY1Jaem1xTE1sSlRhVnh0cHRWelM5cUl0WQ?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "전원주, 유튜브 중단 이유 건강 아닌 돈?…\"좀 올리려 했더니\"",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T01:50:42Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vQldhdmZZckZLMXlQeWJRMnM2LXZJdDRwdUd6TnBZM1JqTFdxdzVGbTBNdHR5eVJoZE9FRHpmZjE0NDlxTjU3LUtJbldiOUVOc2NjRm1JQkZiZw?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "대통령 지지율 또 최저치...여야, 인사 청문 공방",
+      "preview": "",
+      "source": "ytn.co.kr",
+      "date": "2026-09-12T01:28:00Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wUE9TeDNOMk51NGhTUHlDTXNMdjNlY19mNkJIbC1XSWgzVlVlRmp6MnBYeFI3WGVTaHhpbW1sSmxGbU8wNkltZF85dGFraWEwRjhmckg4ZVBEU0taMXRPQkdtUzhZNHlReW1lbHd6dHdkYnlkR2c?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"달라진 원화 강세 공식…外人 주식 17조원 팔아도 환율 급락\"",
+      "preview": "",
+      "source": "연합인포맥스",
+      "date": "2026-09-12T01:25:00Z",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mM1pEZEZFc3JwZ2hMblR3ME9ycjUxb29HdENXeHBNM1c2VnBycU02ZjFGdHE5S045WFFLdC1fTnVGY1VfeWh4WW5wLURzTkRmVmktLXYzZkJBMmFaTG9xWmFCZE8tdWZpdk5hckZZMmY?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "[9월 둘째 주 세계경제동향 브리핑] 코스피 6,900선 회복…美 증시는 동반 약세",
+      "preview": "",
+      "source": "기호일보",
+      "date": "2026-09-12T01:18:36Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wdjJ5VVBfS2ZEbUYzNDRHOTltYTlWRnB0Rk02ZWMwbnpKa0c2V1pHR1BaWndTQmtaaVlBekxVMEU0RTB5SlVDNjVJbi1BRkhHWFFxTTlIU0hWUG9fTHI0SVF3UGw4S3k5eUlYcGg0UQ?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "원화 방향타 된 엔화…자리 잡는 강세 기대감",
+      "preview": "",
+      "source": "연합인포맥스",
+      "date": "2026-09-12T01:11:05Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DbEo4bXFPSDV3VWxGVzh6WXppcnI2azdfeDA0Ynk0UzBJTld6UkFQWlQ3cGUtV3ZYT2h2ZVJEeFVDR1l4X2lxTHVpSWRuS0Rjbm9uX1RVMHdCbkNkbWdBS3Z3cG94RU1VQ3haM0lDUGRCVXRK0gF0QVVfeXFMT0NsSjhtcU9INXdVbEZXOHpZemlycjZrN194MDRieTRTMElOV3pSQVBaVDdwZS1XdlhPaHZlUkR4VUNHWXhfaXFMdWlJZG5LRGNub25fVFUwd0JuQ2RtZ0FLdndwb3hFTVVDeFozSUNQZEJVdEo?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "Firefighters say this antioxidant helped them - their union warns it could be risky",
+      "preview": "Glutathione, an antioxidant, has been offered as a treatment at some of the largest US wildfires in recent years.",
+      "source": "BBC",
+      "date": "2026-09-12T01:04:49Z",
+      "link": "https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&at_campaign=rss",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "BBC World (영문, 미리보기 있음)",
+      "feedId": "bbc-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "서울대 교수·삼성 연구원 뭉친 스누아이랩, AI 머신비전 플랫폼 선보여",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T01:01:18Z",
+      "link": "https://www.hankyung.com/article/202609120151i",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "한국경제 · 경제",
+      "feedId": "hk-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "“징벌과세냐 공급 실패냐”…여야 맞불에 부동산 정책 방향 안갯속",
+      "preview": "",
+      "source": "서울경제",
+      "date": "2026-09-12T01:00:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hOGwwRVUzS2RlUUJqZjROOHpYdzB4cmlLRWZ0VWNFTnpaMjFPbDk3ZVRJZEROUnRjYzBwdVVkTk9tN0tvVHZWY2hJd3VnSmplNHfSAVNBVV95cUxPMmRfWi1ROV82S3V0UDZMWTdFNzY0MkRINWNCbWJwQUcxMnpHVkJQLXpvU0hVRXNyUW1ZUXh2bjVFZXNwaDdWN0N2Wmo2OHZKYUFqaw?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "“3년물 4%·유가 100달러·환율 1345원…‘3高 트리플 쇼크’ 현실화”",
+      "preview": "",
+      "source": "서울경제",
+      "date": "2026-09-12T01:00:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93T0RnMU9URm9uZ2x2NHh2RDE3Rk8yUV8xaXBlcDR6X25FVGhuM2VsUG1ucFhPN1lDakdsX0piWW8teWNpemZ1ZndzZ3BubmhwQVHSAVNBVV95cUxNaDY3eWk0a09ZV2RueGNpc2Y4TjlaOFdZaVd6YkZLNEJYb0VseEVPVEkza1ZlLXRaMVVEZUVTcEktOHZkZzI4NW9KVEo0Zm95d2V5aw?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "엔화 강세에 日기업 비상…도요타, 환율 1엔 오르면 영업익 4353억 감소",
+      "preview": "",
+      "source": "서울경제",
+      "date": "2026-09-12T01:00:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yV2xvY2p2VFZMUTJ6S2FjU251ZkluWDRMYkZubHNTN29IejdXTnVIMmRTcGhzTXNOQW9uQ0xKdUE1dXZrcHE5WlhNcEFYY3JnWmfSAVNBVV95cUxPQmJvQ3UybEZSWkdzYTBqWkFnLUxxa29EVk9nVFJ3TEprMDl3RWxaRFhaWUowVUtxUlNTbnMwdUZyUjhPU2wzWFRxSmtEenhxSC1oSQ?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "英 핵잠수함 운영사 밥콕 “K조선과 손잡고 세계시장 공략”",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T00:54:55Z",
+      "link": "https://www.hankyung.com/article/202609120147i",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "한국경제 · 경제",
+      "feedId": "hk-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "‘2일 천하’로 끝난 7천피… 전쟁보다 美 금리가 더 무서웠다 [주간 증시해설서]",
+      "preview": "",
+      "source": "더스쿠프",
+      "date": "2026-09-12T00:51:07Z",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUbGxfWUJNNzByRUR6M0gwclFyU3JPR284eHFtTkE3VDNrbE5pbFEtYl9nOFBIWmplQlFweGxiZ191MHJSRThBQjY4aEVwV2V3Y2dtT0xIY1ZpQmV5UERabkpVeGNMQktuRjhGNWpR?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "국회 세종의사당 2기 건립위 출범…‘2033년 준공’ 이제는 일정으로 증명해야",
+      "preview": "",
+      "source": "뉴스홈(newshome)",
+      "date": "2026-09-12T00:47:39Z",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lb0twcW9vT3duOTcyUE1icGx4bW9ETDZQbWUtZThxazZESVVhenNsRDhqRHlON3luLVhjY3ltUFlISHFNcTBxaW1lTTJYeWRUUXBEN3BqMWFPM1pfRktyTUxQTVNJZUNZQzJNb1p3?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "치솟는 유가·금리에 몸 사리는 외국인·기관...코스피 7000선 반납 - 머니투데이",
+      "preview": "",
+      "source": "머니투데이",
+      "date": "2026-09-12T00:47:25Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nV2JkcTB5bDBpQnhEYkdEcklsSkpTZk1MSVZXZXBiWl85aU03eUhMd2xwa05uR0RXQURsaFRvcnJ5V3Q5Yy1Gb2ltY25KSVlCdlBVNlhsTEhGUTg2YUZDMHY2ajM1Rmd6RXFoY1J2amlpWGtvS1HSAXtBVV95cUxObFBCRzl4b2ZrMnN5VDVhRE4tZEl3eVkyM1d2Zkk3ZXVMcDlMX3lkeVRvdDA4MnFuR1FKQnpLMF8wcTNFXzRNM3pEbmpYTFNIYllrX242dm1tZjFDQXpRR01RaEV1VFNvWHBoMDl1cmlNTEd6Q05ucGc2Umc?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+      "preview": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+      "source": "BBC",
+      "date": "2026-09-12T00:43:00Z",
+      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "BBC World (영문, 미리보기 있음)",
+      "feedId": "bbc-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "9·11 테러 25주년…미국, 알카에다에 134억원 현상금",
+      "preview": "",
+      "source": "한겨레",
+      "date": "2026-09-12T00:41:00Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fZG9oWVQ4WUxRS2NjUGdQREY3UE1IOXJ0eUtwZ1hQUFcwWUxSamM4OWdkLUhvVWxJY0F0d3N2NmEzSHp3TlNGWVY3cTkxVGRGOERnUHZlV3ZNT2FEeUdrZVRoV2hmTW9ZM1FZMG9lWQ?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "주유소 기름값 17주째 하락…국제유가 상승, 9월 말부터 반영될 듯",
+      "preview": "▲ 서울 시내 한 주유소국제 유가가 상승세를 이어간 가운데 전국 주유소 기름값은 정부의 최고가격제의 영향으로 전주 대비 소폭 내리며 …",
+      "source": "SBS",
+      "date": "2026-09-12T00:39:00Z",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749730",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "SBS · 경제 (미리보기 있음)",
+      "feedId": "sbs-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "독일 작센안할트주, AfD 43.8% 1위…풍력 중단·태양광 제한 공약 변수",
+      "preview": "",
+      "source": "AI타임스",
+      "date": "2026-09-12T00:35:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yaWppTGRGNW10NDQ2bXc4SDdvOEFDdmd0UlFMSVMyNUYwSzJyN25jRWM0MW5Rc0x2NDFEZzF2ZFZ3d0pUTkhBTVJ6SjFVWGExbG94VlE4YWlVQnQzLWJiYVVlM3lrQjJRZGc?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "금태섭 \"龍도 그렇지만 김승원도 아냐…국회의장에게 'GSGG'라고 해\"",
+      "preview": "",
+      "source": "v.daum.net",
+      "date": "2026-09-12T00:32:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LMUNXVjBnTVRGRWM0Uk5weU1uZzc0RHNfeWtKVWRXQkEzUGMxUDlhZ1N3bnEzc2pwZDJnVFdVa3lwQ1YzY3hYVlYtU2Y3M3c?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "금태섭 \"龍도 그렇지만 김승원도 아냐…국회의장에게 'GSGG'라고 해\"",
+      "preview": "",
+      "source": "뉴스1",
+      "date": "2026-09-12T00:30:55Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxbi1NOVpBdFlvRzl1aEFCeHlOWDBKcHZldEZnUXYtNkU0eHdOM1l0SWhRZ29vYUNKUjd6NHR5S1FSSUhRVWt3aVN2bFZmbDQ4QnZFdXV2R2QxZ9IBX0FVX3lxTFAtQXBFNU5oN3YzX2w0YUxwcjNIUWJNZHppQTdVeHAtLVhTSzVUVHpOb29xWXZPVG5jeDVLUUhmS1ZyV0t0cE9aS0w0c2s0MU1vR1dlZW14bHJJTzVESnFj?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "'웃돈 5배 줘도 못 구한다'…삼전닉스에 목줄 잡힌 中 [강경주의 테크X]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T00:30:01Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxRk1HbVhvME5veHBMekNockU5QzZETi16RWozY0tKbG1PbEptUm1jem11YmhjaWhVLXctazZZNDdMZkkwa19iRTJHNHNyUlFKXy16a3dzT1dKQQ?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "달러-원 1,350원 깨졌는데…IB들은 다시 1,370원대 본다",
+      "preview": "",
+      "source": "연합인포맥스",
+      "date": "2026-09-12T00:27:11Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uMHZBUEZqT3g4OVdYT2lWTUlFQjdWWU9WY2Zlbkl6WDVteGJVaUM2cTZDVWJ3ZlMwUHpOQXJVX2cxMnNPLU1hLWlINlFXNlNoWGNKaFJUMjAtQnh5VE5uTkIzR1RHU1NhVU13d0lMa2IwZHdM0gF0QVVfeXFMT24wdkFQRmpPeDg5V1hPaVZNSUVCN1ZZT1ZjZmVuSXpYNW14YlVpQzZxNkNVYndmUzBQek5BclVfZzEyc08tTWEtaUg2UVc2U2hYY0poUlQyMC1CeHlUTm5OQjNHVEdTU2FVTXd3SUxrYjBkd0w?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+      "preview": "Art detectives and security experts say the number of museum thefts across Europe is increasing.",
+      "source": "BBC",
+      "date": "2026-09-12T00:24:08Z",
+      "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "BBC World (영문, 미리보기 있음)",
+      "feedId": "bbc-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"10월 추가 금리인상 가능성 줄었지만…문제는 유가\" |",
+      "preview": "",
+      "source": "연합인포맥스",
+      "date": "2026-09-12T00:20:54Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aOGFMWU9VdEY4MWhuVUQxS2ZkbHNnNzQyeGduR1g1QzkxZjBhcTItTmdfSkRDRGdYeENpeG52eTRVekpLZ1JOYXBQaC12QVJvczVsdjhlTTgyaXNnWEdxOTJRQ0pkaXB1MTF3QzBjMFI0RGFO?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "추석 맞이 ‘하늘그린’ 농특산물, 국회서 수도권 입맛 잡았다… 천안시, 국회 직거래장터 성황",
+      "preview": "",
+      "source": "충청탑뉴스",
+      "date": "2026-09-12T00:17:15Z",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00eEVrZFlXT1ljOTk0d1dsWU16UzVEVlFsVFVRODdfd2tUcGc5NUZQLUpHbzh6MlBFNGVlWWdiM0lDaFNqQllDUTFiSHdLNy1XZFJFR0JvSFRBeEI1cjdSTTVUUEo?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "북한, 유엔총장 9·9절 축전 공개…“대화·연대 가치 상기”",
+      "preview": "",
+      "source": "KBS 뉴스",
+      "date": "2026-09-12T00:16:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01TXdQWnhjOU9tcEJkWkxkVFNwYU1yRHZWS1Uzal92QTRpbC1qLTczSWxGLUU0TlJTbjZrZlp0VDR4eEJvMmprYnVEcmlleVdLQ3QzdDhva0haNms?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"44억 물어내라\"…'경영권 분쟁' 이정재, 이번에도 이겼다",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T00:14:06Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRcWR3YVhHOS1SYksxel9peUROYjdxSkRQZEdYaWstZ08zcmVRMHl2dWthMjNqanh0SHQzdGlXTWZaWUlkWGltOV9pRVQxMTJKd3Zhbm1iRC05QQ?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "한국 경제, 수출 호조 속 고유가·취약계층 고용여건 부담 지속",
+      "preview": "",
+      "source": "산업일보",
+      "date": "2026-09-12T00:07:13Z",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9QeDZhY1huR3Voczd5dTA2VEtHLVFGQ3NYRjYxR2lYd25wOXZIZ3BuTjRMZUxaWWtCOGtIVFc4YVVnR1lh?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "[ETF워치]코스피 반등에 매수세 회복...개인은 하락 베팅",
+      "preview": "",
+      "source": "v.daum.net",
+      "date": "2026-09-12T00:01:09Z",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FOUZ6TjFIUkpXY1lxZ3NWd2dNZGppMlVzTUdsb1dJS1RGWU03aUlVWTBnLS1jOGcxX2hsSUhyenBNZDhyUTlGeUZOQTFlUjA?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"사장님, AI가 일 다 하는데요?\"…삼전닉스 '행복한 비명' [홍민성의 테토남]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T00:00:08Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iMWo5cTB3UXVJZHAwQXc4QWpHRUVROGlzRVN2YTFtTXRSOG9oaEhROEJoRlNNb1RWc3p3aUExQ3Q5c3A2OVR6TGFfUlE0M3RIS0xIWDNzcUJWQQ?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"더이상 못 버텨\"…中 1위 배달앱, 하늘로 눈 돌렸다",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-12T00:00:03Z",
+      "link": "https://www.hankyung.com/article/202608277911i",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "한국경제 · 경제",
+      "feedId": "hk-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "코스피 7000선 안착 실패…기타법인 8조원대 '사자'",
+      "preview": "",
+      "source": "블로터",
+      "date": "2026-09-12T00:00:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXTnhhbm1CSHVzSjFfUVJtZkxCWDU4dTFFb1RjRjFhVzhKdTVQQjlhQmJjQlFVNlBxSkhZU3h2OEZlTGNPYndaWktOZEtTOEczaTZvN0RLbV9CVjh6V3JLdi1GWEhpaGNY0gFsQVVfeXFMTzlrRUdDVGc5QVdHaHM4ajc2QzZhUWNDNl9rajA5SFIteEd6SkplaUFCbXVMbjhuNHo3ZDcxWURBVk94eW9EbzFmV295bGt3VWY4dmJka2kyN253NDNSWDZBRU0zR1Fva2k4S3dG?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "김승원·이형일 등 줄줄이 검증대…국회, 내주 ‘청문회 슈퍼위크’",
+      "preview": "",
+      "source": "이투데이",
+      "date": "2026-09-12T00:00:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tcG9Hc3B4eFE5dEhZa1luQlBPX09WdkY4NWRUNmFwSVNRR2U2aEpvZWRsalREOWZHbkJaeFp2SkZOWVZ6elR0Ml80clloa3lGa1N6UQ?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"20년 후배 '~~군' 불렀다가\"…50대 직장인 하소연에 '발칵' [도쿄나우]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-11T23:57:01Z",
+      "link": "https://www.hankyung.com/article/202609119109i",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "한국경제 · 국제",
+      "feedId": "hk-intl",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "[2026 국감 이슈파이팅] ‘완료’라더니 무엇이 달라졌나",
+      "preview": "",
+      "source": "국토교통신문",
+      "date": "2026-09-11T23:56:55Z",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yZC1DWXNGcGd4NUl0SlZTX0FjZmZrVnRKaG93S0ttemJZRk9Hc21wd3M5YWk5d3FuUHBCblpsVF9JOGJQQnU5ME1lQkQ0ZWtxS1NIQUt5YXUzcHlpWHFQTkpDdWVNcm8?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "빅파마 M&A·기술도입 ‘정조준’…차세대 항체·표적 치료제 러시[클릭, 글로벌 제약·바이오]",
+      "preview": "",
+      "source": "팜이데일리",
+      "date": "2026-09-11T23:53:23Z",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53bTdfVXF0QmpLN0czYk1HNUJ2ZUlYV0NsSVExWkpuZ2ltZ0xBTG5JeUh3SW9udGRJaTl0SE4tMjhTcWdiV2pCS005T1QtOUJ6TUhCVzhTNm9IZUlZSnIyNGVkcklVbnJlcmMtZldR?oc=5",
+      "tab": "ma",
+      "tabs": [
+        "ma"
+      ],
+      "feed": "구글뉴스 · M&A",
+      "feedId": "g-ma",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "[속보] \"北, 단거리 탄도미사일 수차례 발사…약 250㎞ 비행\"",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-11T23:52:13Z",
+      "link": "https://www.hankyung.com/article/2026091201077",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "한국경제 · 정치",
+      "feedId": "hk-poli",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
+      "preview": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
+      "source": "BBC",
+      "date": "2026-09-11T23:39:01Z",
+      "link": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "BBC World (영문, 미리보기 있음)",
+      "feedId": "bbc-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"돈으로 안 되는 것도 있다\"…6.7조 쏟아부은 LIV골프의 몰락 [조수영의 구설(球說)]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-11T23:37:01Z",
+      "link": "https://www.hankyung.com/article/202609106999i",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "한국경제 · 국제",
+      "feedId": "hk-intl",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "‘장애학생 특수학교 방문치과진료 제도화’ 국회토론회 연다",
+      "preview": "",
+      "source": "덴탈투데이",
+      "date": "2026-09-11T23:34:10Z",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5RGktb0pQX2REZUh0ZU9wS2JXVHk3amhDdWVZeFRwVGFiUWM2bm5xOG9yVnF0dGhmWUZqUjBxS1VxdXhzM3RpMFFKS09EQkVZTFBwd1pPMVdwaWhDWjh1NE83TGRWNGc0?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "靑, 北 탄도미사일 도발에 \"안보리 결의 위반\"…긴급안보점검회의 개최",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-11T23:30:51Z",
+      "link": "https://www.hankyung.com/article/2026091200957",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "한국경제 · 정치",
+      "feedId": "hk-poli",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "[속보] '프리덤에지' 훈련 끝나자…\"北, 탄도미사일 수발 발사\"",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-11T23:09:59Z",
+      "link": "https://www.hankyung.com/article/2026091200827",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "한국경제 · 정치",
+      "feedId": "hk-poli",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "美 8월 근원 CPI 0.3%↑…연준, 기준금리 인상 가능성 86%",
+      "preview": "",
+      "source": "etnews.com",
+      "date": "2026-09-11T23:02:57Z",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fR0N6anNWVl9HOG1fMGVvaENOTDVNRHVwWExkdlRibHlEUWhuQnBKOUYyYm14dVlBNzZxS2tEUlgtSXIydGllUW5sQjVlZw?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "더불어민주당 세종시당, ‘강준현의 마을국회’ 제18회 현장소통",
+      "preview": "",
+      "source": "충청메시지",
+      "date": "2026-09-11T23:00:32Z",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JUXlXMHRXX3I5bFdiMTc2aHQ1RGNiXzlGT2EzVUZzb2Z0Mk8wR2phWUFySk9tdnlhOXVIYkxzNllFcmk5QnJJNUJLVFFVaWNvYThjQkRQNlFnZ1ozY0hBZnpnVFpzYmgyMXBn?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "中 CXMT, 2분기 영업이익률 하이닉스보다 높았다…왜?",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-11T23:00:16Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRHNBbEhQTFlPSXNGWVhVUlE0ZWZRYVU4UTg2eDJCTkdRaG1lUndLNDRhay1KWEU4R0VHR1VTSXM1Y2pWQmtBYmVPQ1JpaVZ4SVh6NExDelJuZw?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"서류 대신 라면 끓여서 보고\"…오세훈도 홀린 '특보'의 정체",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-11T23:00:14Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xUC10d25CT245LUpXTGZuM0NSQUdFOXNfb2ZkLVVrLXAwa0hqWU9Ga1dDb3NGYjZvdG5LNjFxdHhfQnhfLW5namRfeXItcThfM0xnTU52WVNGQQ?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon",
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "글로벌 톱100 진입한 기업 어디…美·유럽·동남아 뚫는 K-방산",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-11T23:00:11Z",
+      "link": "https://www.hankyung.com/article/202609119743i",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "한국경제 · 경제",
+      "feedId": "hk-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "박스권 증시에 '파킹형' ETF로 일주일간 1.5조 유입",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T23:00:05Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeGRGaHpVdGVkbWExVUZwYXd3QUFiUnVBd0Z4Ql9lSl9rZmNNT3h2bXZqci1XTVd5dGtoZUFXanNNQXluTmtnUjNYV0RqRVNZckprbEc2QXpxNVBkczVhdNIBYEFVX3lxTE1ZeGRGaHpVdGVkbWExVUZwYXd3QUFiUnVBd0Z4Ql9lSl9rZmNNT3h2bXZqci1XTVd5dGtoZUFXanNNQXluTmtnUjNYV0RqRVNZckprbEc2QXpxNVBkczVhdA?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "'매장서 씻고 경복궁 달린다'…북촌 점령한 러닝 브랜드 [강윤지의 유통체크인]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-11T23:00:05Z",
+      "link": "https://www.hankyung.com/article/202609119344i",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "한국경제 · 경제",
+      "feedId": "hk-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"반도체 산업은 항상 사이클\"…현재 국면에서 투자 전략은?",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-11T23:00:03Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMjFHbmYyWHUtR2JJMGV0cnNvcEJzZEM4Ylp0SnJTazJxak45RUd0UUFOOW5SVG1DTFJhNElja1hpMU1OcVEtMnd6SGsydUhGNlFLM0J3aGRZZw?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "한동훈 '청문회 등판' 공방…여야 총력 대응나서",
+      "preview": "",
+      "source": "뉴스웍스",
+      "date": "2026-09-11T23:00:00Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SMU14UTcxR2lQd0JWUUhwUmFOOU1Pd01KemxoZUQ1MDc0ZHNYY003MmVXVlI1WFh0NlB2MUpaZFcwbkdXRmttd1ZBQl9zaDJpZS1CNTd2R01VX2JKZ1VBRkdzVEVUQ3FkZ0FUNG85TdIBc0FVX3lxTFBiWWxzV3dmY05mRDNWU2FfNnpraVg4NHFJZkUtcmpnMG41RUhiVFBxWVl4WEtYeDVxcWpnMzdDWVZxaWJ4OXM0TEVnSTdWTWlnYkZDYVFXdXRMcUJpdktHNUhKclUxai1rSGRRWnpEVHkwdUE?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "美 8월 소비자물가 3.4% 상승… 9월 기준금리 인상에 ‘무게’",
+      "preview": "",
+      "source": "데일리안",
+      "date": "2026-09-11T22:53:00Z",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSkFvQVJ4dmRFWFNlTzlEbUFvQ2l0WmhJOXowbXVVdGFwUklrTEtXTll1UzRFTTZqNVFxeGdrdWxRTHN3UkxJRkxGYmR5bUhRem52Y1dfdjJBb1dYR3Fqckd6bmFUY045Mk1xVVZ3SFZoVnRGdDVXeG9CWWtFaXVKTFN5UVJXc3hDUVlnaTZNTmxiQ25KOTNjRUlDMUVGaUw4SkktSjV0V1RxNHlBdUY2c0tqSkd1QW1TTVZieEI1X05COVRURDUxZWVMS01YUVVRTThtVmJRR0prSWxtZkFhR1F3?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "김한규, 국회의 예산 심의 방해하는 대법원의 ‘막무가내식’ 예산 제출",
+      "preview": "",
+      "source": "뉴스N제주",
+      "date": "2026-09-11T22:50:03Z",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83RjdQUTltNlBUT0dRSDE4UGFRbjhMUHVFTkhudlNmSGZhaUFUajBLYkY5UHhkb05rYmxHTGE2MXNWck4xU1h1N3VySHNGT0VHWUVCNVc3RU8yTGEwVzR2UXRVOFo0NkE?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"여학생 성폭행 15살 `금수저 아들`, 2억 내고 석방\", 美 발칵[해외이슈]",
+      "preview": "",
+      "source": "mydaily.co.kr",
+      "date": "2026-09-11T22:33:21Z",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtTHZPQ3lBb1BFUGFwQU54cWhjX1lxMERtbGp0LUhaS01DLTVTeWQ1RFpFUi1seXFtWnlURTVIUjNXMGFoeU9ydGNtb0RDeXI0Q2paZTVjdmFYUGdjY2ppdExIX3NqUQ?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "미국 금리 올릴 가능성 커지고, 환율도 다시 오름세…한은 ‘인상 기조’ 이어가나 [머니뭐니]",
+      "preview": "",
+      "source": "헤럴드경제",
+      "date": "2026-09-11T22:26:46Z",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnV0o2T3R1QVBRM2JyaUVZc08xcDVvX0VuNEZJM2UzT2lFMW9iWlJPcWlUV2dOM2ZMTjlkejUzYmg5b19Oajh4UjRiVV9zOXZTS3dTV2Vn?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "이번주 국회에는 무슨 일이? [뉴시스국회토pic]",
+      "preview": "",
+      "source": "뉴시스",
+      "date": "2026-09-11T22:20:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UNU9hcWRpb2ltVWtiaUtOQkxfQlhQUEh6N0N3TF9VYy1TWml3ZHVRQzZDQ1BLVk02ejhWWkNycTl2OXhINVozX09wMnFyQ3lWUlp2ckZXYlVGWUhCZGE5atIBeEFVX3lxTE9kVGFSOU5WNF9JQktudXlSZURZQXNhVW8yQ2piVENmbGZzZ2NkU05ZME5rc0JyOGlQQzlwQ3hjU0lKbkluWTZhVU5hd1N0ZkZaM2NVNElBOHYtRGxQSEdBQTdaZ2Vxc1l4M0czUTVWTUZkMGcyZW9tVg?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
+      "preview": "",
+      "source": "쿠키뉴스",
+      "date": "2026-09-11T22:02:56Z",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 '자금조달 경고등' [김주완의 글로벌머니 X파일]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-11T22:00:08Z",
+      "link": "https://www.hankyung.com/article/202609119348i",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "한국경제 · 경제",
+      "feedId": "hk-econ",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "\"후원계좌 지웠습니다\"…돈보다 '이것' 채운 국회의원 명함 [여의도는 지금]",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-11T22:00:04Z",
+      "link": "https://www.hankyung.com/article/202609118984i",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "한국경제 · 정치",
+      "feedId": "hk-poli",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "이젠 버텨야 하는 코스피…쌓이는 악재에 ‘믿을 건 반도체’ [코주부]",
+      "preview": "",
+      "source": "서울경제",
+      "date": "2026-09-11T22:00:01Z",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVd1lJYjQyTExyQlhBOFhXSjViamdDOXM2LVFJcTYtTXpHLWVWcmFMSmdwbEhPNkdFUW1ZdWM1ZncxdnpUZG80dFo5cldrdFJ0bVHSAVNBVV95cUxOaDBoTEtBU2xwRnF3UlpVeE84blhpWnJSdTczSlVabEdnOS1hM3hYeEp3emJQaG9DOUFkUkpvZkVFT3RtR2pvVTdiejV3MjFQUFNnYw?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "사진으로 보는 일주일 [뉴시스Pic]",
+      "preview": "",
+      "source": "뉴시스",
+      "date": "2026-09-11T22:00:00Z",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xRVRQdksxQ3NWWktaVzgxRll6bFdmdEE2eDdiNElpWGpxTEhZVzEzS1B5eGhqSDRoYnJrY01rUnh2djNERmZaRGk1SzVNeXE5V3pzNjFFVGxBVzN3b1NobEpkLWRSdXpaTTNiTkRsRVRmRURFODhyc9IBeEFVX3lxTE9xRVRQdksxQ3NWWktaVzgxRll6bFdmdEE2eDdiNElpWGpxTEhZVzEzS1B5eGhqSDRoYnJrY01rUnh2djNERmZaRGk1SzVNeXE5V3pzNjFFVGxBVzN3b1NobEpkLWRSdXpaTTNiTkRsRVRmRURFODhycw?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "[주간증시전망] 코스피 지수, 7000선 안착 시험대…“금리에 흔들려도 AI 성장 유효”",
+      "preview": "",
+      "source": "이투데이",
+      "date": "2026-09-11T22:00:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SajJxN2tUNk1LaEJBR0VfLXhfaE9oZjVJN3BCeDJTRjBKNDlJck1SYWJvdno4MS0tQnkzYmZkTUF0S3lRa0JjeFFIWWZEVHp3S01fNQ?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "[오늘의 국회 에너지 입법 : 3000KW 이하 태양광 발전, 점용 인허가 간소화]",
+      "preview": "",
+      "source": "에너지플랫폼뉴스",
+      "date": "2026-09-11T21:56:58Z",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tcEJqekdidkpqX3ZoZlVvMWMzR01jczJzbElRSzBxcDYzQXJLQWEyU3dCa293Tk1DVHgwdFVPWmVqNENONGM0QlRFNnhrVmlBb195cDZVVmt4NDZqTjQ5S3RZMXRCVUNUUzlqddIBcEFVX3lxTE9ucjdYMjBDZ0phN3U4RzllLUhKdk5YQTYxMUFIRmVFb3ZpQWdrUVFESFBORFVXeVJhNk5tMnBwUjhUNEVkaDgwTnBOOVBWc01KQnhaVklsRlRucVpGRGQ0UWlYSnZoenRfV1FsN1RkUDY?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
     {
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "preview": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
@@ -44,7 +2089,21 @@ window.NEWS_DATA = {
       ],
       "feed": "BBC World (영문, 미리보기 있음)",
       "feedId": "bbc-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "합참 \"北, 동해상으로 미상 발사체 발사\"",
+      "preview": "",
+      "source": "한국경제",
+      "date": "2026-09-11T21:43:30Z",
+      "link": "https://www.hankyung.com/article/2026091299987",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "한국경제 · 정치",
+      "feedId": "hk-poli",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "[외환] 끈적한 美 물가에 1,340원 중반대",
@@ -58,7 +2117,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "볼라토 그룹, 얼라인먼트 엔진 인수 합병 완료…CEO에 크리스토퍼 엔세이 선임",
@@ -72,7 +2131,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · M&A",
       "feedId": "g-ma",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "유가 폭탄에'휘청'…물가 '연쇄 상승' 우려",
@@ -86,7 +2145,7 @@ window.NEWS_DATA = {
       ],
       "feed": "SBS · 경제 (미리보기 있음)",
       "feedId": "sbs-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "美연준 FOMC, 다음 주 기준금리 인상 가능성 커져...8월 소비자물가지수 견조 영향",
@@ -100,7 +2159,21 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "Passenger train derails in France leaving at least 44 injured",
+      "preview": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+      "source": "BBC",
+      "date": "2026-09-11T21:25:32Z",
+      "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "BBC World (영문, 미리보기 있음)",
+      "feedId": "bbc-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "Six Nigerians accused of romance scams to be extradited to the US",
@@ -114,7 +2187,7 @@ window.NEWS_DATA = {
       ],
       "feed": "BBC World (영문, 미리보기 있음)",
       "feedId": "bbc-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[주간증시전망] 코스피, 7000선 안착할까…AI 훈풍 vs 고유가·고금리 '변수'",
@@ -128,7 +2201,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "\"외동딸처럼 키웠다\"…2030도 지갑 연 '명품 복숭아' 정체 [프라이스&]",
@@ -142,7 +2215,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "환율 하락에 수입 물가 3개월 연속 내리나[한은 미리보기]",
@@ -156,7 +2229,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "'나이키 제국'은 왜 무너졌나",
@@ -170,7 +2243,21 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "‘애플식 환율’이 뭐길래…듀오는 美보다 비싸고, 구형도 최대 50만원 올라",
+      "preview": "",
+      "source": "에너지경제신문",
+      "date": "2026-09-11T21:00:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tRWVzemt6RWVnZUFPLW5yRzR2cEljWUFVQUtWZTVsM3lGYnVIMVg3cUxrc0hnVzVrelJaS0ljQWVPVW4xOHYzZ2s4eEExVFY4TElCTERrSEVzcU0?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "두 달 만에 200원 넘게 떨어진 원·달러, 전망은",
@@ -184,7 +2271,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[브라보 문화 이슈] ‘유인나에게’ 아이유 MV, 김영옥·나문희여야 했다",
@@ -198,7 +2285,21 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "\"이란-걸프국, 호르무즈 통항 위해 14일 첫 장관급 회동\"",
+      "preview": "",
+      "source": "MBC 뉴스",
+      "date": "2026-09-11T20:42:00Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12ajNSTDVRUmEzUy1FbkRNZWFKMVVSbEtKRnJrWm9Jb25tVWRya2ItdzhoWW5hejc4YjRxcVRaaW44NnhKM29xWVZ4c3NaLWZPNVYweVpIeExUOWRsSzExc2IzeTdKQmpIX0RYRm5FRTFkVjFY0gF0QVVfeXFMT29jNWRsSU9NODdtTlpMb2NVbFhnd2RLUTl6ZVUxYkF3TG9vYjRobk1nUUVLZHUzbVV6eWVYSFJWWjlZdFQwTVROR25nVEhQUExZRHh3X0VRYkFBaFhRRGNNQ3FlWlU2YzBJeERmdFZyb0tlWGQ?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "WSJ \"트럼프, 노골적 매표행위…관세철회가 美에 경제적 배당\"",
@@ -212,7 +2313,21 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "preview": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+      "source": "BBC",
+      "date": "2026-09-11T20:34:29Z",
+      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "BBC World (영문, 미리보기 있음)",
+      "feedId": "bbc-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "사모펀드 결국 이럴 줄 알았다...개미는 어쩌나",
@@ -226,7 +2341,21 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "국제유가 고공행진 속, 달러 '절상'...엔화환율은 '뚝'",
+      "preview": "",
+      "source": "초이스경제",
+      "date": "2026-09-11T20:06:25Z",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwN3Jta3NKelhiQmg0N3dTVjVxM2dhNXE3WklqNHdlcGUzc2ZkbEVsVER5dGZXQnVfZU1TQTRpd1czZUlnaU81cGk1Z1F0MFNSc2J6QlAtZTFZMlRVTHdPYjNFLVZiVFRsQWhrcTZLQU3SAXNBVV95cUxONm95Y0NOaWQtZURCYlptaUs3cHFfVmpYS1dZak5ZQWttZWtaejNVdkllVzJOdmRhMm4wQzFCOEp0M3NQZHNvWDNvTkdZeXFXWnR2clRzeThXRVBZVmtrX0RraGZQV3JHUmNteHI0Tm9lZHZZ?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "IPO 올인 생태계의 한계…M&A 막힌 한국 벤처, 돈맥경화 터진다",
@@ -240,7 +2369,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · M&A",
       "feedId": "g-ma",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
@@ -254,7 +2383,7 @@ window.NEWS_DATA = {
       ],
       "feed": "BBC World (영문, 미리보기 있음)",
       "feedId": "bbc-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "트럼프 \"9·11 테러는 끔찍한 악‥그게 오늘 싸우는 이유\"",
@@ -268,7 +2397,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "서원주 국민연금 CIO \"환율 분석 등 AI 활용 분야 발굴하겠다\" [fn마켓워치]",
@@ -282,7 +2411,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "여전한 인플레, 워시의 결정은?…AI 멸망론의 '진실'[월가 백브리핑]",
@@ -296,7 +2425,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "러시아 드론, 우크라이나 주요소·구급차 공격…3명 사망",
@@ -310,7 +2439,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "한 총리, '용혜인 비판'에 \"무겁게 받아들여...국회의 시간 남아\"",
@@ -324,7 +2453,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "마이크로소프트의 뒤늦은 후회[박신영의 개장전 요것만]",
@@ -338,7 +2467,21 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "Gen Zs recall first learning of 'deeply harrowing, terrifying' 9/11",
+      "preview": "They carry distinct memories not from the day itself, but from the moment - years later - they learned about the attacks.",
+      "source": "BBC",
+      "date": "2026-09-11T17:21:00Z",
+      "link": "https://www.bbc.co.uk/news/articles/cgmrzzkjywlo?at_medium=RSS&at_campaign=rss",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "BBC World (영문, 미리보기 있음)",
+      "feedId": "bbc-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "최재구 예산군수, 국회 찾아 주요 현안사업 국비 지원 요청",
@@ -352,7 +2495,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "How global trade and oil prices could be hit by Houthi advance",
@@ -366,7 +2509,7 @@ window.NEWS_DATA = {
       ],
       "feed": "BBC World (영문, 미리보기 있음)",
       "feedId": "bbc-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
@@ -380,7 +2523,7 @@ window.NEWS_DATA = {
       ],
       "feed": "BBC World (영문, 미리보기 있음)",
       "feedId": "bbc-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "Israel says it has destroyed major underground Hezbollah base",
@@ -394,7 +2537,7 @@ window.NEWS_DATA = {
       ],
       "feed": "BBC World (영문, 미리보기 있음)",
       "feedId": "bbc-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "\"국힘은 빨라서 좋아\"‥여야 넘나든 전방위 로비",
@@ -408,7 +2551,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[유럽 특징주] 노바티스, 잇단 임상 실패에 투자자들 M&A 전략 정조준",
@@ -422,7 +2565,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · M&A",
       "feedId": "g-ma",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "“세금 아닌 벌금” “과세 정상화”… 여야, 부동산 세제 정면충돌",
@@ -436,7 +2579,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "우크라 전쟁, 공통의 이해관계가 다시 지핀 트럼프와 푸틴의 우정",
@@ -450,7 +2593,21 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "SK하이닉스(000660)",
+      "preview": "",
+      "source": "매일경제 마켓",
+      "date": "2026-09-11T15:06:02Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3NqR2t6TTYtY195RTJBbjlweElnWV80V1ZVcUF4RTN1eTdMQ0dYMUNOUUw5NFJ3aVFNNVF5TkZZSG03RTZGY1NKak1RcmFKQUxpMzRYTlR2YVBqa3d3RFBlU2lUYnlBQURzTy1ENHZDSlkwZFkwZFVFdmx1MjRsRE9aNWZBY1llNnRxd1Znak05YlNaZmRB?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "李 ‘영정사진’ 비판받은 이진숙…‘윤석열 참수’ 사진 꺼내 맞불",
@@ -464,7 +2621,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[반론보도] 「중대재해 '볼모'로 정년연장 요구한 HL만도 노조」 등 4건 관련",
@@ -478,7 +2635,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[오늘의 운세] 9월 12일 띠별 운세",
@@ -492,7 +2649,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "노르웨이 왕실 또 부고…아스트리드 공주 94세로 별세",
@@ -506,7 +2663,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "패션 업체도 편의점도…'K뷰티' 시장 쟁탈전",
@@ -520,7 +2677,7 @@ window.NEWS_DATA = {
       ],
       "feed": "SBS · 경제 (미리보기 있음)",
       "feedId": "sbs-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "천안시, 국회서 우수 농특산물 직거래장터 열어…‘하늘그린’ 홍보",
@@ -534,7 +2691,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "美 근원 CPI 예상 웃돌아…금리인상 확률 90% 육박",
@@ -549,7 +2706,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "중동發 '물가 쇼크'…美 기준금리 인상 가능성 커졌다",
@@ -563,7 +2720,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "美 물가 우려에 10년물 금리 年 5% 터치",
@@ -577,7 +2734,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 국제",
       "feedId": "hk-intl",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "\"취업 걱정 없잖아요\" 우르르…6000명 몰려 '역대급' 인기",
@@ -591,7 +2748,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "美 9월 기준금리 인상 전망 확대…8월 소비자물가 3%대 상승 - 머니투데이",
@@ -605,7 +2762,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "\"면접 보려고 정장 샀는데…\" 공무원 시험 준비생들 술렁인 이유",
@@ -619,7 +2776,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "“후티 반군, 바브엘만데브해협 섬 장악”…원유 운송 차질 우려↑",
@@ -633,7 +2790,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "미국 8월 소비자물가 전년 대비 3.4% 상승···기준금리 인상할까",
@@ -647,7 +2804,21 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "브릭스 정상회의 앞두고 만난 푸틴·모디…경제·국방 협력 논의",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T13:09:59Z",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGOEZxWkFhU3p2MEx1dHN2Mmh3T05fQUxvUXBLcGgyVjZOQVVBdGxNSHBkcmFuWVBGa2gyNVJjRFZLYkxCMGlsOEt2RUF6YjQ1QVgzSjd6ZUhWSlHSAWBBVV95cUxPbGtiS0N6cTVLY0V1bXE5RzQ0dEFNcmZsSVhCRDJXR1pMaGdvVkxBZG5nUUtGUW16aWlEalZFQUNlME5EMzdhblFGamdYYTB3N0VYWGJ0QWttUnZWZEFPTWk?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "일론 머스크 '다큐' 공개…\"극도로 위험한 인물\" vs \"개똥보다 못 해\"",
@@ -661,7 +2832,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 국제",
       "feedId": "hk-intl",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "1-800-플라워스닷컴, 2026 회계연도 연간 보고서 제출…인수합병 효과 및 사업 현황 공개",
@@ -675,7 +2846,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · M&A",
       "feedId": "g-ma",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "김승원 \"아들 상습 결근 의혹 사실 아냐…근무일지 해석 오류\"",
@@ -689,7 +2860,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "세종 국회의사당 건립위해 국회도 제2기 건립위 본격가동…조정식·강준현·황명선·성일종 등 15명 참여",
@@ -703,7 +2874,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "유가 폭탄에 한국 경제도 '휘청'…물가 연쇄 상승 우려",
@@ -717,7 +2888,7 @@ window.NEWS_DATA = {
       ],
       "feed": "SBS · 경제 (미리보기 있음)",
       "feedId": "sbs-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[속보] 美 8월 근원 CPI, 컨센서스 웃돌아 금리 인상 가능성 커져",
@@ -731,7 +2902,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "‘10월이면 돈줄 마른다’ 자사주 매입에 버티는 코스피…벌써 ‘25조’나 썼다 [투자360]",
@@ -745,7 +2916,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[속보] 美 8월 소비자물가 전년 대비 3.4% 상승…예상치 부합",
@@ -759,7 +2930,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 국제",
       "feedId": "hk-intl",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "러 중앙은행, 1년3개월 만에 기준금리 인하 멈춰…\"연 14% 동결\"",
@@ -773,7 +2944,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "국토장관 후보 \"병역 정상 이행…4급 판정 사유, 병무청도 확인 불가\"",
@@ -787,7 +2958,21 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "“금 1g 값이 월급의 9배”…경제난 쿠바 주민들, 불법 금광 몰려",
+      "preview": "",
+      "source": "한겨레",
+      "date": "2026-09-11T12:12:00Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95bERQMkZWUnpTdnhjTTZ6cUw1NVVJMGFkZndxa2dLVmczdk5Wa1Q1NUlnQkJZWjhpRHpyUHRjLWlMTDNHYnp3Y0d3TW1qa055THpjTEw4Ynd4bG5qVF9oMU55N19VN09WVlZyN1NSUQ?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "젠섬 주주들, 모다인 퍼포먼스 테크놀로지 사업부 인수합병 승인",
@@ -801,7 +2986,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · M&A",
       "feedId": "g-ma",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "네팔 정부 \"빙하 붕괴 따른 홍수 복구비용 6.4조원 추산\"",
@@ -815,7 +3000,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "한화에어로스페이스, 6411억원 규모 천무 유도미사일 크로아티아 첫 수출",
@@ -829,7 +3014,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "삼성·SK는 역대급 호황인데…\"휴대폰 바꾸기 겁난다\" 비명 [테크로그]",
@@ -843,7 +3028,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "\"아이언맨은 너무 과했다\"…로봇업계가 전신 슈트 포기한 이유",
@@ -857,7 +3042,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 국제",
       "feedId": "hk-intl",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "국회 간 변광용 거제시장, 수해 극복·지역 현안 해법 모색",
@@ -871,7 +3056,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "이진숙 집회에 '대통령 영정사진'…\"후안무치\" 맹반발",
@@ -885,7 +3070,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "보건복지위, 건보법 개정안 등 법률안 371건 상정",
@@ -899,7 +3084,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "“교정·이민 혁신으로 법무행정 균형발전 이뤄야”",
@@ -913,7 +3098,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "김승원 아들, 엄마가 원장인 복지기관 일하며 월 6회꼴로 결석",
@@ -927,7 +3112,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "조직개편·민생추경 처리… 부산시의회 여야 협치 가동",
@@ -941,7 +3126,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "K-푸드의 원조! 남도 음식의 세계화와 미래를 준비하는 안유성 명장을 만나다",
@@ -955,7 +3140,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · K-푸드",
       "feedId": "g-kfood",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[aT] 파리 뒤흔든 K-편의점 열기, 유럽서 'NEXT K-푸드' 가능성 확인",
@@ -969,7 +3154,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · K-푸드",
       "feedId": "g-kfood",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "김성수 대법관 후보자 \"대통령도 공정한 재판…헌법 따라 특수성 판단\"",
@@ -983,7 +3168,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "중동 불안에 ’기름값·국채금리’ 급등…코스피 7,000 반납",
@@ -997,7 +3182,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "서울 시내버스 노조, 16일 파업 예고…쟁의행위 88% 찬성",
@@ -1011,7 +3196,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "제넨실 임상시험 의혹…보건복지委 여야 충돌",
@@ -1025,7 +3210,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "전쟁 장기화에 국제유가·금리 '껑충'‥코스피 다시 7천 아래로",
@@ -1039,7 +3224,21 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "이스라엘軍, 레바논 남부 헤즈볼라의 핵심 지하 요새 폭파… \"안보구역 구축 완료\"",
+      "preview": "",
+      "source": "뉴스핌",
+      "date": "2026-09-11T11:06:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56cFV1NjZKZ1M5NlFEc1FvbHFzQ0x6M0RqU3B0alNpTk5VYVYxeHZNNUc0SnhUTXpFb2I2aVF0MU4td3lvR0h4aTNkU09NVVdtOXRXTGZrakxZQW5Y?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "'반값에 또 반값' 실화냐…주부들 하루 몇 번씩 찾는 '득템 성지'",
@@ -1053,7 +3252,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "TD 코웬, M&A 전망에 원오크 목표주가 93달러로 상향",
@@ -1067,7 +3266,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · M&A",
       "feedId": "g-ma",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
@@ -1081,7 +3280,7 @@ window.NEWS_DATA = {
       ],
       "feed": "BBC World (영문, 미리보기 있음)",
       "feedId": "bbc-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[정치사냥꾼] 용혜인·김승원, 논란 계속… 여야 공방 격화",
@@ -1095,7 +3294,7 @@ window.NEWS_DATA = {
       ],
       "feed": "SBS · 경제 (미리보기 있음)",
       "feedId": "sbs-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "이진숙 국회서 ‘5·18 폄훼 집회’ 열어, 사무처 “깊은 유감”…5·18 피해자들, 이진숙에 손배소",
@@ -1109,7 +3308,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[증시 예보] 7000 찍고 다시 밀린 코스피…이번주 꼭 챙겨야 할 이슈",
@@ -1123,7 +3322,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "변광용 거제시장, 국회 찾아 수해 소상공인 ‘추가지원’ 요청",
@@ -1137,7 +3336,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "여야, 대정부질문서 李정부 확장재정·부동산 등 정면 충돌(종합)",
@@ -1151,7 +3350,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "한국마사회 유도·탁구단 해체 방침…“국정감사서 따질 것”",
@@ -1165,7 +3364,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "러시아 중앙은행, 기준금리 14%로 동결",
@@ -1179,7 +3378,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "여야, 군의관·공보의 복무기간 단축 한목소리",
@@ -1193,7 +3392,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "거래소, 11월부터 저PBR기업 공개…코스피 하위 25% 대상",
@@ -1207,7 +3406,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "제2기 국회 세종의사당 건립위원회 출범…강준현 의원, “차질 없는 추진을 위해 최선 다할 것”",
@@ -1221,7 +3420,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "코스피, 이틀 만에 다시 7000선 내줘… 반도체주 급락",
@@ -1235,7 +3434,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "“정치 공세 중단” vs “무능까지 감싸나”…기관장 사퇴 놓고 여야 공방",
@@ -1249,7 +3448,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "변 시장, 국회 찾아 수해 극복, 소상공인 지원확대 건의",
@@ -1263,7 +3462,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "직원의 한동훈 기자회견 개입에…한 총리 \"부적절 처신\" 사과",
@@ -1277,7 +3476,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "이진숙 국회 집회에 ’이대통령 영정’…민주 “선 넘어“",
@@ -1291,7 +3490,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "저성장 돌파구 어디에…이종욱 의원, 한국경제 재도약 해법 찾는다",
@@ -1305,7 +3504,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "이란·사우디 외무장관 전화 통화…\"긴장 확산 막을 외교 필요\"",
@@ -1319,7 +3518,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 국제",
       "feedId": "hk-intl",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "겹악재에 출렁인 코스피…7,000선 반납",
@@ -1333,7 +3532,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "\"출산도 결혼도 하지 않겠다\" 인구 절벽 다다른 일본 미혼남녀 실태",
@@ -1347,7 +3546,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 국제",
       "feedId": "hk-intl",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "\"물 들어올 때 노 젓자\"…투자금 쓸어담는 우량 스타트업",
@@ -1361,7 +3560,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
@@ -1375,7 +3574,7 @@ window.NEWS_DATA = {
       ],
       "feed": "BBC World (영문, 미리보기 있음)",
       "feedId": "bbc-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "\"세금인가 벌금인가\"…여야, 부동산 정책 놓고 정면충돌",
@@ -1389,7 +3588,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "삼성E&A, 사우디서 4.7조 비료 플랜트 '잭팟'",
@@ -1403,7 +3602,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "삼성, 33만t 하수처리수 반도체 공장 활용",
@@ -1417,7 +3616,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "통상본부장, 영국에 러시아LNG 수입제재·신철강조치 개선 요청",
@@ -1431,7 +3630,7 @@ window.NEWS_DATA = {
       ],
       "feed": "SBS · 경제 (미리보기 있음)",
       "feedId": "sbs-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "HD현대重 노조, 노동부 지침 어긴채 파업",
@@ -1445,7 +3644,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "대한항공·아시아나 \"하늘서 무료 와이파이 쓰세요\"",
@@ -1459,7 +3658,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[포토] 국내서 공개된 '제네시스 GV90'",
@@ -1473,7 +3672,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "원안위, 고리 3·4호기·한빛 1·2호기 사고관리계획 재논의키로",
@@ -1487,7 +3686,7 @@ window.NEWS_DATA = {
       ],
       "feed": "SBS · 경제 (미리보기 있음)",
       "feedId": "sbs-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "청년AI지원예산 시의회 삭감에 오세훈 \"청년정책에 여야 어딨나\"(종합)",
@@ -1501,7 +3700,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[단독] 풍산, 수입 의존하던 '소형 공격드론' 국산화길 열었다",
@@ -1515,7 +3714,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "靑 \"호르무즈 기여방안 미정\"…안보정보 유출 점검",
@@ -1529,7 +3728,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "'6세대 전투기' 경쟁 뛰어든 韓 …쌍발·무미익으로 가나 [방산 인사이트]",
@@ -1543,7 +3742,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 국제",
       "feedId": "hk-intl",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "'유니콘팜' 출신 의원들, 당정 요직 잇따라 꿰차",
@@ -1558,7 +3757,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "\"국민연금, 스튜어드십코드 적극 활용을\"",
@@ -1572,7 +3771,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "李대통령, 티빙 겨냥 \"개인정보 유출에 엄정 책임 물어야\"",
@@ -1586,7 +3785,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "\"장특공제 하루아침 바꿔\" vs \"거주에 보상 줘야\"",
@@ -1600,7 +3799,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "병역자료 제출 거부한 홍지선 국토 후보자",
@@ -1614,7 +3813,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "계룡시, 2027년 정부예산 확보 국회 협력 강화",
@@ -1628,7 +3827,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "미래기금 탓에 교부세 줄어든 지자체…\"재정 악화, 우리몫 더 달라\"",
@@ -1642,7 +3841,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "재가동 심사 늦어진 '한빛 2호기' 결국 멈췄다",
@@ -1656,7 +3855,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "국방장관 후보 \"안규백의 '내일 전작권 회수해도 문제없어' 평가에 '공감'\"",
@@ -1670,7 +3869,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "與 \"김승원, 잘된 인사\" 용혜인엔 \"····\"",
@@ -1684,7 +3883,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "홍해發 '유가 쇼크'…사우디 원유 수출 33% 줄었다",
@@ -1699,7 +3898,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[이슈] 삼성생명·화재, 해외 M&A 확대…새 성장동력 확보 '정조준'",
@@ -1713,7 +3912,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · M&A",
       "feedId": "g-ma",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "추석 앞두고 나눔 현장 찾은 추미애…“포용 사회여야 지속 가능”",
@@ -1727,7 +3926,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "국채금리 치솟고, 유가 6% 급등",
@@ -1741,7 +3940,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 국제",
       "feedId": "hk-intl",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "KB 이재근號 출범…금융 세대교체 예고",
@@ -1755,7 +3954,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "KB금융 회장에 이재근 내정",
@@ -1769,7 +3968,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "한 총리, 용혜인 논란 묻자 \"여러 비판 잘 안다‥국회의 시간 남아\"",
@@ -1797,7 +3996,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 국제",
       "feedId": "hk-intl",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "K-푸드의 진짜 힘, 시작은 ‘우리 밥상’",
@@ -1811,7 +4010,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · K-푸드",
       "feedId": "g-kfood",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[똑소리E] 순식간에 1,500원-1,300원대…달러·엔화·원화, 이제 '판'이 바뀌나?",
@@ -1909,7 +4108,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "MIT가 주목한 젊은 혁신가 서진영·정재원",
@@ -1979,7 +4178,7 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 경제",
       "feedId": "hk-econ",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "국회 등장한 ‘대통령 영정사진’…이진숙 “개인이 가져온 것” 해명 [지금뉴스]",
@@ -2119,7 +4318,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "불붙은 중동에 긴축 가속 … 6500~7000 '박스피' 갇힌 코스피",
@@ -2245,7 +4444,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[마감시황] 코스피, 장 초반 3%대 급락 후 낙폭 축소…6900선 마감",
@@ -2553,7 +4752,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[속보] 靑 \"대법관 재제청, 추천委 존중해 최대한 신속히 이뤄져야\"",
@@ -2568,6 +4767,20 @@ window.NEWS_DATA = {
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
       "collectedAt": "09/11/2026 18:11:21"
+    },
+    {
+      "title": "[차이나워치] 화물선 화재 참사…AI 충돌 속 시진핑 인도행",
+      "preview": "",
+      "source": "연합뉴스 한민족센터",
+      "date": "2026-09-11T08:10:47Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45c2hsalNXLXc1YzhCd3dIbGVXRXVyYk1UM18yVDYzZ0lFWE5hMWd0YVFrQnlDal9XTTRZUmd4RVpyWVRtOVlCVUQyUExOTmtxZ3R6UzdYdE9xcjQ3MFppYzRDMS1zckJqamlfTy1BRC03NEdH?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "리모델링 휩쓰는 포스코…수주액 15조 눈앞",
@@ -2623,7 +4836,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · K-푸드",
       "feedId": "g-kfood",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "“살아있는 대통령 영정사진으로 국회서 저주의 굿판”…이진숙 또 논란",
@@ -2637,7 +4850,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "이진숙 국회 집회에 ‘李대통령 영정사진’ 논란",
@@ -2651,7 +4864,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "한병도 “국회 집회서 李 영정사진 쓴 이진숙, 파렴치한 행위 반복”",
@@ -2665,7 +4878,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "이진숙 국회 집회에 ‘李대통령 영정사진’ 논란",
@@ -2721,7 +4934,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[속보] 靑, 용혜인 논란에 \"국민께 설명기회 제공돼야 한단 입장\"",
@@ -3015,7 +5228,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[마감시황] 코스피, 유가·美 국채금리 상승에 7000선 반납",
@@ -3169,7 +5382,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "유가·금리 부담…코스피, 사흘 만에 7000선 아래로",
@@ -3354,6 +5567,20 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 18:11:21"
     },
     {
+      "title": "올 들어 첫 국회 열린다… 여야 5당 대표 개원에 뜻 모아",
+      "preview": "",
+      "source": "데일리뉴스",
+      "date": "2026-09-11T07:22:00Z",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPMFBTSTR2S1B1UWlhWXU2TGFnR3FLZnZlZ0tSM3U4dk9neDVFQndZUXljemUzQmxiQ2tCbHBFalk2OGpOYVBJUEZYOS1ad2RZbWlEdXlaQzJ0R0Y1QnVNTXE4TUQxRWg3ZFAzU1NmaGRmNU1LMVE3N3hzVUFkQmNyUGlJMXdWUHc0S0tNbS1HdzRlbXRnVHV4aTl0YUdabUNkN0RER181VVg5UjhlTFBUVGVNWV9hd2pOTXV1NE1zMUxRMlUzOTBGeTlBRUk3X0ZfMTdwNFNaYmxUTFo4b3BPNDVtOGRqMmRscmFtM204cUVJVS1HMkkteTl0TXFPNHl4SmtfdjRkOEtuSW14RDdGZ1B2WXNfZUpKbDBuMUczVWJzZ1RIMWxsRi01UnJlclBpT3VXV19pR3ZXQTdMeHVBdTNzckJOU1Zpc3hhVk5OYzlQNUxXSV9KaFNiOHRDZzJVZjZr?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
       "title": "고유가·고금리 우려에···코스피 다시 7000선 아래로",
       "preview": "",
       "source": "경향신문",
@@ -3394,20 +5621,6 @@ window.NEWS_DATA = {
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
       "collectedAt": "09/11/2026 18:11:21"
-    },
-    {
-      "title": "올 들어 첫 국회 열린다… 여야 5당 대표 개원에 뜻 모아",
-      "preview": "",
-      "source": "데일리뉴스",
-      "date": "2026-09-11T07:22:00Z",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPMFBTSTR2S1B1UWlhWXU2TGFnR3FLZnZlZ0tSM3U4dk9neDVFQndZUXljemUzQmxiQ2tCbHBFalk2OGpOYVBJUEZYOS1ad2RZbWlEdXlaQzJ0R0Y1QnVNTXE4TUQxRWg3ZFAzU1NmaGRmNU1LMVE3N3hzVUFkQmNyUGlJMXdWUHc0S0tNbS1HdzRlbXRnVHV4aTl0YUdabUNkN0RER181VVg5UjhlTFBUVGVNWV9hd2pOTXV1NE1zMUxRMlUzOTBGeTlBRUk3X0ZfMTdwNFNaYmxUTFo4b3BPNDVtOGRqMmRscmFtM204cUVJVS1HMkkteTl0TXFPNHl4SmtfdjRkOEtuSW14RDdGZ1B2WXNfZUpKbDBuMUczVWJzZ1RIMWxsRi01UnJlclBpT3VXV19pR3ZXQTdMeHVBdTNzckJOU1Zpc3hhVk5OYzlQNUxXSV9KaFNiOHRDZzJVZjZr?oc=5",
-      "tab": "kpol",
-      "tabs": [
-        "kpol"
-      ],
-      "feed": "구글뉴스 · 한국 정치",
-      "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
     },
     {
       "title": "코스피, 美 CPI 발표 앞두고 1%대 하락…6900선은 지켜",
@@ -3816,6 +6029,20 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 18:11:21"
     },
     {
+      "title": "국회 대정부 질문, 질의에 답하는 구윤철 부총리",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T07:04:02Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGYXhnUXp6ZmtBa0prSFptVWdtNmpNUVlEbmozN2FNcV9vVy1UWnFNNlppTk1aTlh1V2w0LTRtR0xsZHhZVUJYWWR0ZnZiejBDTFlmdTVfbkNsSXFoV3V5NdIBYEFVX3lxTFBGYXhnUXp6ZmtBa0prSFptVWdtNmpNUVlEbmozN2FNcV9vVy1UWnFNNlppTk1aTlh1V2w0LTRtR0xsZHhZVUJYWWR0ZnZiejBDTFlmdTVfbkNsSXFoV3V5NQ?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
       "title": "유가·금리 상승에 美 CPI 경계심까지…코스피, 또다시 7천 밑으로",
       "preview": "",
       "source": "머니투데이",
@@ -3841,7 +6068,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[마감시황] 코스피, 외인·기관 4조원 매도에 1.76% ↓…6909.91 마감",
@@ -3886,6 +6113,20 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 18:11:21"
     },
     {
+      "title": "국회 대정부 질문 출석해 미소짓는 구윤철 부총리",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T06:56:28Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Pel85ZmR0alZCc1ZUcEdWcjVsNVNmaGV5OVphbmp3YllTR2N5Z3N4dGtuSWlXeV9UeEJvRWQ1Ui1kQ0xBQWowc3pzeHlHTUdKSEFmbjNDemJ1LUdBZHNOQdIBYEFVX3lxTE5Pel85ZmR0alZCc1ZUcEdWcjVsNVNmaGV5OVphbmp3YllTR2N5Z3N4dGtuSWlXeV9UeEJvRWQ1Ui1kQ0xBQWowc3pzeHlHTUdKSEFmbjNDemJ1LUdBZHNOQQ?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
       "title": "[포토] 의사봉 두드리는 이만희 국회 보건복지위 위원장",
       "preview": "",
       "source": "천지일보",
@@ -3898,6 +6139,34 @@ window.NEWS_DATA = {
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
       "collectedAt": "09/11/2026 18:11:21"
+    },
+    {
+      "title": "국회 대정부 질문 출석한 두 부총리",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T06:56:03Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xMmNfN3pFRGJDdDBxWlBtMjF2c0VwUmsyWlQ5bXp1UGNXRThpbVJ4ZkR3SVhBT2tuWlRmOHhvUjc4SEl2VjhIckFIZVoyZWNkY1ROWnhyZjUwcjBXLWE5MNIBYEFVX3lxTE8xMmNfN3pFRGJDdDBxWlBtMjF2c0VwUmsyWlQ5bXp1UGNXRThpbVJ4ZkR3SVhBT2tuWlRmOHhvUjc4SEl2VjhIckFIZVoyZWNkY1ROWnhyZjUwcjBXLWE5MA?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "국회 대정부 질문 출석한 경제분야 국무위원들",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T06:55:48Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XSkFBX0JkQjhhNUZ1dVBqQm5TdlZFQk1BSGdfVk9DMmhNUTYybzdQekd0MWVMZ3J0SFZHNkxZYUItWjE1V3RVVkdpcUhfOVFWalJ6ZEdQWUNtWjZlSXRfT9IBYEFVX3lxTE5XSkFBX0JkQjhhNUZ1dVBqQm5TdlZFQk1BSGdfVk9DMmhNUTYybzdQekd0MWVMZ3J0SFZHNkxZYUItWjE1V3RVVkdpcUhfOVFWalJ6ZEdQWUNtWjZlSXRfTw?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "코스피, 1.76% 하락 6900선 후퇴…삼전·닉스 2~3% 약세",
@@ -3953,7 +6222,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "코스피, 고유가·고금리 여파 6900선으로 하락 마감",
@@ -3981,7 +6250,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[증시-마감] 코스피, 1.76% 하락 마감…'국제유가·금리 급등' 부담",
@@ -4023,7 +6292,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "코스피, 유가·금리 공포 속 낙폭 줄여 6900선 마감…코스닥도 하락",
@@ -4079,7 +6348,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "코스피, 1.7% 하락해 다시 7천피 밑으로",
@@ -4093,7 +6362,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "안민석 교육감, 여야 대표 만나 경기교육 현안 초당적 협력 요청",
@@ -4317,7 +6586,21 @@ window.NEWS_DATA = {
       ],
       "feed": "BBC World (영문, 미리보기 있음)",
       "feedId": "bbc-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "국회 대정부질문 3일차, 답변하는 김윤덕 국토교통부 장관",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T06:33:08Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPdW1ndVpTTjBINlVBUUJvOEx4WDJNck81OW5IcF9MR2RUdnJ2Y1pXUVh1X051c0xiQW56Ymw4bmFuNllUdjZOR3NteVJBWktPZkJ6Y1YzbmhXbUM1ck5yTNIBYEFVX3lxTFBPdW1ndVpTTjBINlVBUUJvOEx4WDJNck81OW5IcF9MR2RUdnJ2Y1pXUVh1X051c0xiQW56Ymw4bmFuNllUdjZOR3NteVJBWktPZkJ6Y1YzbmhXbUM1ck5yTA?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "국회 입법조사처, ‘반복 가뭄’ 권역 평균만으로는 못 잡는다",
@@ -4458,6 +6741,20 @@ window.NEWS_DATA = {
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
       "collectedAt": "09/11/2026 18:11:21"
+    },
+    {
+      "title": "\"실적 못 채우면 장기 적출\"…1만5000명 모여있던 태국 범죄 단지서 수술실 발견",
+      "preview": "",
+      "source": "아시아경제",
+      "date": "2026-09-11T06:22:23Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YMVI5Q0ZlMUdCV3ZKWXpQVV9RWnVOZU9ESjVpTzdWSDV5VWx3bTFaSU92UE12V3JTYUdua1NyeUwtMlAwWHc5cjVXWXltR0dDazMwMXdnUnlxdjJ0Q3ExNQ?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "[기고] \"9·11 테러, 우리는 무엇을 기억해야 하나\"",
@@ -4695,7 +6992,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "美 실종자확인국 \"北서 유해발굴작업 재개 준비 지시 받아\" [이상은의 워싱턴나우]",
@@ -4796,6 +7093,20 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 18:11:21"
     },
     {
+      "title": "오픈AI, 금융사 특화 챗GPT 출시…주식 리서치·M&A 분석 지원 - 조선비즈",
+      "preview": "",
+      "source": "Chosunbiz",
+      "date": "2026-09-11T05:49:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3hxa0ljT19FZDc4b1VTMU1LNHlXYUh4VVFWS1Rsb0d0bm53V2lvQUZ6MFFSMWpMZmVVLVhIOEozWENDcklwR0RRLVVVaWlZNjlmRzFjTFdGT1ZiVzRnRDFlenBtam1YeVpIeTNUczN0MW9HUHVaX3VpeUVZa2FHdmF30gGWAUFVX3lxTFBzYnlNLTVVVmdtcTFBUXJIMDVZUFNVLVQ5Zm9RY2d0R3M0TkR2cUZsVTVveDhsTjFtM1lxQkxoRmo2Zm82N2phZnlOZjVvZlUzRFQ0MGhoYUNfaWg4UHhrc1NTbXdIRjk3VWE2RFN5cHJDXzlpeWhFLXF4WTQ3c3NKTXlkLXREV3N1TUFfaXJpdTNIOWdKZw?oc=5",
+      "tab": "ma",
+      "tabs": [
+        "ma"
+      ],
+      "feed": "구글뉴스 · M&A",
+      "feedId": "g-ma",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
       "title": "정부, 복수국 간 그린경제협정 협상 참여…기후조치 대응력 강화",
       "preview": "▲ 산업통상부 청사산업통상부는 오늘 한국의 '복수 국가 간 그린경제협정' 협상 참여를 공식화한다고 밝혔습니다.GEPA는…",
       "source": "SBS",
@@ -4852,6 +7163,20 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 18:11:21"
     },
     {
+      "title": "국회 대정부질문 3일차, 답변하는 구윤철 부총리",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T05:40:27Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qcFRzZldGRUxVemhVQ3pkMVRlNkd1b2lpbTZPa1Z5NlIxVzBHZk9hYmxWMjJIZkZ5ZS10akZYY0F1NnNrNVd6WDBOYXhBbUV3QVZVQzBFRTlqQTNjMW90LdIBYEFVX3lxTE9qcFRzZldGRUxVemhVQ3pkMVRlNkd1b2lpbTZPa1Z5NlIxVzBHZk9hYmxWMjJIZkZ5ZS10akZYY0F1NnNrNVd6WDBOYXhBbUV3QVZVQzBFRTlqQTNjMW90LQ?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
       "title": "‘사회연대경제기본법’ 국회 본회의 통과… “지역문제 해결 주체로의 사회연대경제 기반 강화” 기대",
       "preview": "",
       "source": "옥천신문",
@@ -4877,7 +7202,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "손님이 찾는데도 \"카스 없어요\"…'테라'만 파는 수상한 동네 [현장+]",
@@ -4992,6 +7317,34 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 18:11:21"
     },
     {
+      "title": "국회 대정부질문 3일차, 답변하는 한성숙 총리",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T05:22:23Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02STB2ZUtfQzRMaDUwSXdqQ2hLZHdZZ3BScGFhM0xob1l0VlFNSE8zMVRJNkJvUG11dGNrMVlSdXpGQ2QzUVAza25iTXVvZFBKRU16bnNTQml1dF9KV1hBONIBYEFVX3lxTE02STB2ZUtfQzRMaDUwSXdqQ2hLZHdZZ3BScGFhM0xob1l0VlFNSE8zMVRJNkJvUG11dGNrMVlSdXpGQ2QzUVAza25iTXVvZFBKRU16bnNTQml1dF9KV1hBOA?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "국회 대정부질문 3일차",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T05:21:45Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95SmpPUERIYnktUmpUUDNVdzZRaUdlQU9nUUVtN0J2NXBKTFRwT1lmSkVoOUdvaEZYMWt3S2NyT29tNzMxbERxcWNlT1ZYUEI5OFJNN2NtMWFUOVBxeEhvZ9IBYEFVX3lxTE95SmpPUERIYnktUmpUUDNVdzZRaUdlQU9nUUVtN0J2NXBKTFRwT1lmSkVoOUdvaEZYMWt3S2NyT29tNzMxbERxcWNlT1ZYUEI5OFJNN2NtMWFUOVBxeEhvZw?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
       "title": "[자막뉴스] \"S&P500 주식보다 8배 뛰었다\"…포켓몬 카드가 '진짜 돈' 된다?",
       "preview": "어린 시절 가지고 놀았던 포켓몬 카드가 주식 못지않은 투자자산으로 주목받고 있습니다.뉴욕포스트에 따르면 게임·스포츠 분야 벤처투자사 그리핀 게이…",
       "source": "SBS",
@@ -5031,7 +7384,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "유가·금리 치솟자 코스피 3% 하락, 국고채 금리 연고점 경신",
@@ -5062,6 +7415,20 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 18:11:21"
     },
     {
+      "title": "밴스는 이란 피하고, 트럼프는 농담쇼… 현실 외면한 美 공화당 전당대회",
+      "preview": "",
+      "source": "조선일보",
+      "date": "2026-09-11T05:10:51Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQzF2aWtucUV3cGt0TW45R2pEcmg2WWtzWUJfeGRBemRvcUFPT3hCcDRmVmVwbFNja0pKRnBGSmRrOEVsZDJhVzl1azlkZGlOeHhNbm5MTVBvamtuMkRtX08xS1FOdDBZUnFDWWJOdlBxalpPOWRoVzNuVm1mZ3RtTVZzbE5qSkI4OTlDbVBZRVo1ZXZZNmViR0VmcjMzZw?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
       "title": "(단독)(아이쿱 유동성 위기)②영업이익 10억인데 '몸값' 1200억…상환 내건 '기픈물' M&A",
       "preview": "",
       "source": "뉴스토마토",
@@ -5073,7 +7440,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · M&A",
       "feedId": "g-ma",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "\"9000원인데 없어서 못 사요\"…'식빵계 에르메스'에 오픈런 [먹킷리스트]",
@@ -5423,7 +7790,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "日 10년물도 3%대…인플레 공포 다시 고개",
@@ -5480,7 +7847,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · K-푸드",
       "feedId": "g-kfood",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "기아, 집배 현장 맞춤형 PBV 개발해 우정사업본부에 공급",
@@ -5508,7 +7875,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "논산시 국회서 ‘국방 공공기관 충남 유치 전략 포럼’ 개최",
@@ -5606,7 +7973,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "에이프로젠바이오, 모회사 CB로 200억 유증…M&A '실탄 마련'",
@@ -5637,6 +8004,20 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 18:11:21"
     },
     {
+      "title": "조정식 국회의장, 제2차 국회 세종의사당 건립위원회 위촉식에서 인사말",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T02:49:05Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vOVV1a1lGbzV2QWZHanI5dkdBQm5TTjFMUFl2dDduZGhFTTFSRVpvZjBSYUQ2TTQwRmFTVmEzbnY3TzZrTUJLbUFIUHF2dGh6M2pZbE5pT3FCNU40UjZmY9IBYEFVX3lxTE9vOVV1a1lGbzV2QWZHanI5dkdBQm5TTjFMUFl2dDduZGhFTTFSRVpvZjBSYUQ2TTQwRmFTVmEzbnY3TzZrTUJLbUFIUHF2dGh6M2pZbE5pT3FCNU40UjZmYw?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
       "title": "국제 유가·금리 상승 겹악재에… 코스피, 2%대 하락세 - 조선비즈",
       "preview": "",
       "source": "Chosunbiz",
@@ -5662,7 +8043,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "Watch: Americans remember what they were doing on 9/11",
@@ -5777,6 +8158,20 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 18:11:21"
     },
     {
+      "title": "中, 티베트 재난 관련 게시물 단속…\"유언비어 엄중 처벌\"",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T02:34:36Z",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPZzdmOExlbllnZkFVVTlPREtTQTB6blByVWJ0b1JFT3N2Sk1PMHcyVTI1bzBfWHVSbnBYcUFhWVE2cHhBXzNYQTBiaGRSbGxWbnBETHhiQmNhOWPSAWBBVV95cUxOemlLMWlIYUdGWThDeWpBNzVPaGYtcmVLNlJaS1NVWUxta2FXb3FPaHZyU1VkZXRwRWYwM2JuNmlZbUw2Y3I4QXN5T3pxQ1poYTR3dFpyZWc1ZmFWdDhHMGY?oc=5",
+      "tab": "world",
+      "tabs": [
+        "world"
+      ],
+      "feed": "구글뉴스 · 세계 헤드라인",
+      "feedId": "g-world",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
       "title": "\"선거 끝나도 트럼프 힘 확 안 빠질 것…한국 목소리 적극 내야\"",
       "preview": "",
       "source": "한국경제",
@@ -5817,6 +8212,20 @@ window.NEWS_DATA = {
       "feed": "한국경제 · 정치",
       "feedId": "hk-poli",
       "collectedAt": "09/11/2026 18:11:21"
+    },
+    {
+      "title": "25조 자사주 매입에 코스피 버텼는데…10월 수급 공백 우려",
+      "preview": "",
+      "source": "v.daum.net",
+      "date": "2026-09-11T02:23:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wX1NVTWNXWFFQTHI1QTZIZ05ySEotMExhMzRyOEd1ZF9vYVd3c29Hd000b0tDWDBpMVZGMzRucExDSjVVWDdVaF9sZ1hmRG8?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "與 “이진숙, 국회를 극우 세력 준동의 장으로 변질시켜”",
@@ -5957,6 +8366,20 @@ window.NEWS_DATA = {
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
       "collectedAt": "09/11/2026 18:11:21"
+    },
+    {
+      "title": "[영역:young域]스타트업이 스타트업을 샀다",
+      "preview": "",
+      "source": "v.daum.net",
+      "date": "2026-09-11T02:01:31Z",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wa3ZQRUZtODRQY0J5SFdCQkJ5WUNMYW1KNENfVnF0M3ZMeV9LNXdmMXVSeGlZYUQyaXphLUtCMjhTcjBIV0oyUHJNYUJMVndDZ2FMXw?oc=5",
+      "tab": "ma",
+      "tabs": [
+        "ma"
+      ],
+      "feed": "구글뉴스 · M&A",
+      "feedId": "g-ma",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "오늘이 가장 싸다?…\"스마트폰 가격 계속 오를 것\" 전망 나온 이유",
@@ -6141,6 +8564,20 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 18:11:21"
     },
     {
+      "title": "환율 너무 빠졌나…외환당국 물밑 움직임에 시선 집중",
+      "preview": "",
+      "source": "연합인포맥스",
+      "date": "2026-09-11T01:29:26Z",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53X1pMVzNXdlVWNVdRWWZnUWUxdGU0MTI3Ymt4SFV1bUVEU1BiVkJQdnViS1l1VXpEbHBFQTRuRGdLWVQtMGdTMHRDWl81X1FKU3d4OUtfbEJxY0JRUVMwaUptejR5aFFFeDZoS0pRLXM?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
       "title": "2030 '투자 열풍'… 8명 중 1명 \"주식·채권으로 노후준비\"",
       "preview": "주식과 채권으로 노후를 준비한다는 20대, 30대가 14년 사이 약 5배로 늘었습니다.국가통계포털 조사에 따르면 지난해 노후 준비 방법으로 주식…",
       "source": "SBS",
@@ -6180,7 +8617,21 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "[인터뷰②] '통화스와프 주역' 유상대 \"환율 하락 오히려 늦었다\"",
+      "preview": "",
+      "source": "연합인포맥스",
+      "date": "2026-09-11T01:21:11Z",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhbmRtT0RRVmVWcGg0bTkwdXVFQnd6LTl4Z3VCRFc0OHJPYm44UFN3aUlxcUhXenNDX25IX0NvRFVYMExHQW5QYmhZWjgxZkx1TE1uZ1E4V0xTS3BBenh0SldjZjVGa3lSMk40TFFZbm0?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "李대통령 지지율 38% '취임 후 최저치'…서울은 29%",
@@ -6320,7 +8771,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · M&A",
       "feedId": "g-ma",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "26주간 금 모아볼까? 카뱅, 적립식 투자서비스 시작",
@@ -6518,7 +8969,35 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 정치",
       "feedId": "g-kpol",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
+    },
+    {
+      "title": "코스피·환율 하락 출발",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T00:36:27Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9neXJEbVJiTlQtZDVNMkRyV3dyaDItM0tXak4yeGhnQ25oY3RPczRFdHRXQTE0dE10dllWZWJ3RWlGeGJnWml4akVPa2xKR0hOamNUbGtvZFBDVmc2LTZVZNIBYEFVX3lxTE9neXJEbVJiTlQtZDVNMkRyV3dyaDItM0tXak4yeGhnQ25oY3RPczRFdHRXQTE0dE10dllWZWJ3RWlGeGJnWml4akVPa2xKR0hOamNUbGtvZFBDVmc2LTZVZA?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
+      "title": "코스피·코스닥·환율 하락 출발",
+      "preview": "",
+      "source": "연합뉴스",
+      "date": "2026-09-11T00:36:24Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jbGtMOXF3YmJ0Q0pYU1BMaDB5ZDVkZVdIS1I0YUhGYnRmZTVsNzdIYldXSGdoT3B6RXVHWVBOZXNmam5YT3ZMNDJscTd2dTlxREhFVEZSR00taW5aeTJMcNIBYEFVX3lxTE9jbGtMOXF3YmJ0Q0pYU1BMaDB5ZDVkZVdIS1I0YUhGYnRmZTVsNzdIYldXSGdoT3B6RXVHWVBOZXNmam5YT3ZMNDJscTd2dTlxREhFVEZSR00taW5aeTJMcA?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
     },
     {
       "title": "9월 초 수출도 고공행진…반도체 1년 새 270% 급증",
@@ -6588,7 +9067,7 @@ window.NEWS_DATA = {
       ],
       "feed": "BBC World (영문, 미리보기 있음)",
       "feedId": "bbc-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "결혼식·장례식 작아지자…일본 꽃시장 직격탄",
@@ -6742,7 +9221,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "이스타항공, 中최대 여행 플랫폼 '플리기'와 맞손…중국인 방한 수요 확대",
@@ -6784,7 +9263,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "\"한국 쌀 사가자\" 일본 난리였는데…1년 만에 '대반전'",
@@ -6896,7 +9375,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박",
@@ -7095,6 +9574,20 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 18:11:21"
     },
     {
+      "title": "[환율 전망] 맷집 좋던 원화도 이번엔 휘청",
+      "preview": "",
+      "source": "KB Think",
+      "date": "2026-09-10T22:55:12Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hZUxxVEV2VzJFT2VWcWNPWkR1d3d6cEhLbGZfWHFsVmhuX1pTUk0zX3hacFFYbkRDRjM0eEJmc0owVm5ObUFIVVI0YjE5YnRaZm1QR3dNN0c0bTczR1J2eg?oc=5",
+      "tab": "kecon",
+      "tabs": [
+        "kecon"
+      ],
+      "feed": "구글뉴스 · 한국 경제",
+      "feedId": "g-kecon",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
       "title": "中 시진핑 7년 만에 인도행, 중·인 관계 개선 시험대",
       "preview": "",
       "source": "뉴스핌",
@@ -7246,7 +9739,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[영상]“아빠로서의 본능” 도로 뛰어들어 여아 구한 아저씨",
@@ -7260,7 +9753,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "국제유가, 중동분쟁 격화 등 영향 상승세 지속-WTI도 배럴당 100달러 넘어서",
@@ -7330,7 +9823,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[외환] 美 물가·유가 부담에 10원 이상 급등…1,350원 직전 마감",
@@ -7389,6 +9882,20 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 07:01:50"
     },
     {
+      "title": "대정부질문 사흘차…부동산부터 메가프로젝트·ETF까지 여야 격돌",
+      "preview": "",
+      "source": "v.daum.net",
+      "date": "2026-09-10T21:01:00Z",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iU0VFSWctYnprREd4dnp3OEhTUnItSDJjYXpsZmdtLXpmXzE0MFJzM3hRenF0N082QzZQT3FLOHRyRWNVQ1VXcjBYLXFzSU0?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
+      "collectedAt": "09/11/2026 07:01:50"
+    },
+    {
       "title": "용혜인은 날짜, 김승원은 증인 채택… 깊어지는 '인청 딜레마'",
       "preview": "",
       "source": "v.daum.net",
@@ -7417,25 +9924,11 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 07:01:50"
     },
     {
-      "title": "대정부질문 사흘차…부동산부터 메가프로젝트·ETF까지 여야 격돌",
+      "title": "코스피 호황에 운용사 2분기 순이익 2.7조…전년比 214% 증가",
       "preview": "",
-      "source": "v.daum.net",
-      "date": "2026-09-10T21:01:00Z",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iU0VFSWctYnprREd4dnp3OEhTUnItSDJjYXpsZmdtLXpmXzE0MFJzM3hRenF0N082QzZQT3FLOHRyRWNVQ1VXcjBYLXFzSU0?oc=5",
-      "tab": "kpol",
-      "tabs": [
-        "kpol"
-      ],
-      "feed": "구글뉴스 · 한국 정치",
-      "feedId": "g-kpol",
-      "collectedAt": "09/11/2026 07:01:50"
-    },
-    {
-      "title": "코스피 7000, 이제는 '돌파'보다 '버티기'라는데…개미는 뭘 봐야 할까",
-      "preview": "",
-      "source": "뉴시스",
+      "source": "뉴스1",
       "date": "2026-09-10T21:00:00Z",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vT3ctVXB6aEVQNndhT2w4NWRJbkI0bTVGMzlPYWtMb3pRa212TThKZzJWR09ubFlrajUzdURtWklMU0JSYkpkZUdsZjMwMTdFTXJqemxBaDB1OGZieFZVZNIBeEFVX3lxTFBBS3pNMVlWNGpDOFZhTGRNZVhFb3ZIbTlRZzBtUnp5QlJfM2EtbFliSmhCWWQ1VXJtcVcwRG1rVDY3UHIwa3RwdFJMOTVzbGIxYkx6Tl8xcUhNamxEM25QUjRwRExYcFdOa19fQjh5ZU9aSzBKdXFndQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BVHFXSmdNNzhqeHU1U3Q4XzVOWDA0V2lKb1YxNWNLSkFMaEV5VmtWc29zVVRPd0lCaUFVaUswQmlIU2FoVnU3WkNOTEppM3BOc2FjZTluYjY2Ym80SlFoY1NZNNIBaEFVX3lxTE1RUU53Q0huUFZPUmlvWVBkcmliV1RQZ0M1aHg4cUNuVHFCVGQ4cENudkJMM3BoLU0tRTBHWXdMV3ozOG9QY2VDTkN6RXFoY25jbUtucl9LaTRDMUJkYWIwOHhNU3pUWDRz?oc=5",
       "tab": "kecon",
       "tabs": [
         "kecon"
@@ -7459,11 +9952,11 @@ window.NEWS_DATA = {
       "collectedAt": "09/11/2026 18:11:21"
     },
     {
-      "title": "코스피 호황에 운용사 2분기 순이익 2.7조…전년比 214% 증가",
+      "title": "코스피 7000, 이제는 '돌파'보다 '버티기'라는데…개미는 뭘 봐야 할까",
       "preview": "",
-      "source": "뉴스1",
+      "source": "뉴시스",
       "date": "2026-09-10T21:00:00Z",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BVHFXSmdNNzhqeHU1U3Q4XzVOWDA0V2lKb1YxNWNLSkFMaEV5VmtWc29zVVRPd0lCaUFVaUswQmlIU2FoVnU3WkNOTEppM3BOc2FjZTluYjY2Ym80SlFoY1NZNNIBaEFVX3lxTE1RUU53Q0huUFZPUmlvWVBkcmliV1RQZ0M1aHg4cUNuVHFCVGQ4cENudkJMM3BoLU0tRTBHWXdMV3ozOG9QY2VDTkN6RXFoY25jbUtucl9LaTRDMUJkYWIwOHhNU3pUWDRz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vT3ctVXB6aEVQNndhT2w4NWRJbkI0bTVGMzlPYWtMb3pRa212TThKZzJWR09ubFlrajUzdURtWklMU0JSYkpkZUdsZjMwMTdFTXJqemxBaDB1OGZieFZVZNIBeEFVX3lxTFBBS3pNMVlWNGpDOFZhTGRNZVhFb3ZIbTlRZzBtUnp5QlJfM2EtbFliSmhCWWQ1VXJtcVcwRG1rVDY3UHIwa3RwdFJMOTVzbGIxYkx6Tl8xcUhNamxEM25QUjRwRExYcFdOa19fQjh5ZU9aSzBKdXFndQ?oc=5",
       "tab": "kecon",
       "tabs": [
         "kecon"
@@ -9501,7 +11994,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "호르무즈 파병·사관학교 통합 놓고 여야 충돌… 외교·안보 질의서 고성 이어져",
@@ -9574,20 +12067,6 @@ window.NEWS_DATA = {
       "collectedAt": "09/10/2026 20:13:49"
     },
     {
-      "title": "여야, 이틀째 대정부 질문…호르무즈 파병·전작권 화두에",
-      "preview": "",
-      "source": "아주경제",
-      "date": "2026-09-10T09:52:51Z",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PaFZNUlNvOW13RGtVdjI1WHN3X2VSOFRZcHB0VHlIUmZOclV4SG9CTVNqWEFLMjhhOXZOdWhHQzh2U2lGWWlmMzIySXdWZE82WS1vdjh2WVbSAVhBVV95cUxPT2hWTVJTbzltd0RrVXYyNVhzd19lUjhUWXBwdFR5SFJmTnJVeEhvQk1TalhBSzI4YTl2TnVoR0M4dlNpRllpZjMyMkl3VmRPNlktb3Y4dllW?oc=5",
-      "tab": "kpol",
-      "tabs": [
-        "kpol"
-      ],
-      "feed": "구글뉴스 · 한국 정치",
-      "feedId": "g-kpol",
-      "collectedAt": "09/10/2026 20:13:49"
-    },
-    {
       "title": "도쿄 신주쿠 구청장 \"민박, 감당 가능한 수준 이미 넘어섰다\"",
       "preview": "",
       "source": "한국경제",
@@ -9599,6 +12078,20 @@ window.NEWS_DATA = {
       ],
       "feed": "한국경제 · 국제",
       "feedId": "hk-intl",
+      "collectedAt": "09/10/2026 20:13:49"
+    },
+    {
+      "title": "여야, 이틀째 대정부 질문…호르무즈 파병·전작권 화두에",
+      "preview": "",
+      "source": "아주경제",
+      "date": "2026-09-10T09:52:51Z",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PaFZNUlNvOW13RGtVdjI1WHN3X2VSOFRZcHB0VHlIUmZOclV4SG9CTVNqWEFLMjhhOXZOdWhHQzh2U2lGWWlmMzIySXdWZE82WS1vdjh2WVbSAVhBVV95cUxPT2hWTVJTbzltd0RrVXYyNVhzd19lUjhUWXBwdFR5SFJmTnJVeEhvQk1TalhBSzI4YTl2TnVoR0M4dlNpRllpZjMyMkl3VmRPNlktb3Y4dllW?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
       "collectedAt": "09/10/2026 20:13:49"
     },
     {
@@ -9767,7 +12260,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "[한경에세이] 다시, 회의를 시작했다",
@@ -11801,20 +14294,6 @@ window.NEWS_DATA = {
       "collectedAt": "09/10/2026 20:13:49"
     },
     {
-      "title": "쿠팡, '지역사회 상생 활동' 공로…국회 보건복지위원장상 수상",
-      "preview": "",
-      "source": "백세시대",
-      "date": "2026-09-10T07:51:57Z",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MMDFVVVhaZGM1Rnk0aVo4RXZWZHBDSWs1VDJMRmdGZWRZQzBlb3hzQjVFdFhDOXFJUXpjV0J5OG82Um9qUkFMV2lvaGVUVEM1S3dubm40QXpMazFvRXJRRnFiUnNjSU1aMXN3?oc=5",
-      "tab": "kpol",
-      "tabs": [
-        "kpol"
-      ],
-      "feed": "구글뉴스 · 한국 정치",
-      "feedId": "g-kpol",
-      "collectedAt": "09/10/2026 20:13:49"
-    },
-    {
       "title": "\"사하라AI, AI 금융 인프라 '소린' 확장…'TaaS·AaaS' 출시\"",
       "preview": "",
       "source": "한국경제",
@@ -11826,6 +14305,20 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 한국 경제",
       "feedId": "g-kecon",
+      "collectedAt": "09/10/2026 20:13:49"
+    },
+    {
+      "title": "쿠팡, '지역사회 상생 활동' 공로…국회 보건복지위원장상 수상",
+      "preview": "",
+      "source": "백세시대",
+      "date": "2026-09-10T07:51:57Z",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MMDFVVVhaZGM1Rnk0aVo4RXZWZHBDSWs1VDJMRmdGZWRZQzBlb3hzQjVFdFhDOXFJUXpjV0J5OG82Um9qUkFMV2lvaGVUVEM1S3dubm40QXpMazFvRXJRRnFiUnNjSU1aMXN3?oc=5",
+      "tab": "kpol",
+      "tabs": [
+        "kpol"
+      ],
+      "feed": "구글뉴스 · 한국 정치",
+      "feedId": "g-kpol",
       "collectedAt": "09/10/2026 20:13:49"
     },
     {
@@ -11885,11 +14378,11 @@ window.NEWS_DATA = {
       "collectedAt": "09/10/2026 20:13:49"
     },
     {
-      "title": "“배송기간 고려한 지역별 ‘맞춤 숙성’ 전략 주효” [K-푸드 김치 생존 보고서]",
+      "title": "사계절 균일 품질·자동화 생산…거세지는 ‘중국산 김치’ 공세 [K-푸드 김치 생존 보고서]",
       "preview": "",
       "source": "농민신문",
       "date": "2026-09-10T07:48:00Z",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNEtjYmZBdDRBVzlnRFFOYkpuMHZRWlI2ZGNYbXN3ZDVQS3dXZ0JuT1ZLckx3ZnJJTkxyZF9ja1NiZjRVeVZGWWwzR0JJTW05Y0FsR2poZGpFQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KNEdqSFpEUXZMS0txM2QyenZnT3BlMFBycEt6alE5Tl8yeHQ4QmZuRHRVbllmbkhDQlk1eFZoYjdFb3l6OVl6bU1DaGJZRUttcEREQVN5b1hZUQ?oc=5",
       "tab": "kfood",
       "tabs": [
         "kfood"
@@ -11899,11 +14392,11 @@ window.NEWS_DATA = {
       "collectedAt": "09/10/2026 20:13:49"
     },
     {
-      "title": "사계절 균일 품질·자동화 생산…거세지는 ‘중국산 김치’ 공세 [K-푸드 김치 생존 보고서]",
+      "title": "“배송기간 고려한 지역별 ‘맞춤 숙성’ 전략 주효” [K-푸드 김치 생존 보고서]",
       "preview": "",
       "source": "농민신문",
       "date": "2026-09-10T07:48:00Z",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KNEdqSFpEUXZMS0txM2QyenZnT3BlMFBycEt6alE5Tl8yeHQ4QmZuRHRVbllmbkhDQlk1eFZoYjdFb3l6OVl6bU1DaGJZRUttcEREQVN5b1hZUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNEtjYmZBdDRBVzlnRFFOYkpuMHZRWlI2ZGNYbXN3ZDVQS3dXZ0JuT1ZLckx3ZnJJTkxyZF9ja1NiZjRVeVZGWWwzR0JJTW05Y0FsR2poZGpFQQ?oc=5",
       "tab": "kfood",
       "tabs": [
         "kfood"
@@ -14573,11 +17066,11 @@ window.NEWS_DATA = {
       "collectedAt": "09/10/2026 20:13:49"
     },
     {
-      "title": "전월세 가격 상승에…서울 생애 최초 매수비중 \"역대 최대\"",
-      "preview": "지난달 서울에서 집을 처음 산 사람의 비중이 역대 최대를 기록했습니다.대법원 등기정보광장에 따르면 8월 서울의 아파트와 연립, 오피스텔 등 집합…",
+      "title": "산업부·우리은행, 유망 중견기업 45개사 선정",
+      "preview": "산업통상부와 우리은행이 유망 중견기업 45개사를 선정했습니다.지원 방식은 업체당 최대 300억 원의 대출과 첫해 기준 최대 1% 포인트의 금리 …",
       "source": "SBS",
       "date": "2026-09-10T01:32:00Z",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008746352",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008746354",
       "tab": "kecon",
       "tabs": [
         "kecon"
@@ -14587,11 +17080,11 @@ window.NEWS_DATA = {
       "collectedAt": "09/10/2026 20:13:49"
     },
     {
-      "title": "산업부·우리은행, 유망 중견기업 45개사 선정",
-      "preview": "산업통상부와 우리은행이 유망 중견기업 45개사를 선정했습니다.지원 방식은 업체당 최대 300억 원의 대출과 첫해 기준 최대 1% 포인트의 금리 …",
+      "title": "전월세 가격 상승에…서울 생애 최초 매수비중 \"역대 최대\"",
+      "preview": "지난달 서울에서 집을 처음 산 사람의 비중이 역대 최대를 기록했습니다.대법원 등기정보광장에 따르면 8월 서울의 아파트와 연립, 오피스텔 등 집합…",
       "source": "SBS",
       "date": "2026-09-10T01:32:00Z",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008746354",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008746352",
       "tab": "kecon",
       "tabs": [
         "kecon"
@@ -15172,7 +17665,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · 세계 헤드라인",
       "feedId": "g-world",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "'中 어쩌다 이 지경까지'…SNS 조회수 폭발한 '0원 생존법'",
@@ -16869,6 +19362,20 @@ window.NEWS_DATA = {
       "collectedAt": "09/10/2026 20:13:49"
     },
     {
+      "title": "'K-푸드와 K-컬처의 거대한 접점'... 맥도날드와 지드래곤이 그리는 아시아의 새로운 웨이브",
+      "preview": "",
+      "source": "녹색경제신문",
+      "date": "2026-09-09T02:15:52Z",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjWVUyOE52R0lBMExMUHUwbnMzLTZ3NFlJSWp0amM3Wm1CelRHTUF6eDZla2FWN2VNMlh2ZlVMajRuenJYRVhPT3plNnFpU3BLUGNxbC1nTlNUTUk3N1dnNVBKT1hLM0d6?oc=5",
+      "tab": "kfood",
+      "tabs": [
+        "kfood"
+      ],
+      "feed": "구글뉴스 · K-푸드",
+      "feedId": "g-kfood",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
       "title": "aT, 프랑스서 K-푸드 수출시장 확대 나서",
       "preview": "",
       "source": "충남일보",
@@ -17303,6 +19810,20 @@ window.NEWS_DATA = {
       "collectedAt": "09/10/2026 20:13:49"
     },
     {
+      "title": "농림축산식품부, 추석 전 가공식품 물가 안정 및 K-푸드 수출 성과 확대 방안 모색",
+      "preview": "",
+      "source": "아시아통신",
+      "date": "2026-09-08T10:30:06Z",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tMFZNakMzcFg5VUdieXpZejNpaG1RNHJtdHRUbUJTZ00tVGlXeTJKMUFDQ0xLSFdadS1ENGpNMFF6d3dvQ1daMjBwaTMtVGI3dWdHNGJlUjVuSU0?oc=5",
+      "tab": "kfood",
+      "tabs": [
+        "kfood"
+      ],
+      "feed": "구글뉴스 · K-푸드",
+      "feedId": "g-kfood",
+      "collectedAt": "2026-09-12T18:11:01+09:00"
+    },
+    {
       "title": "잘나가는 K푸드의 역설…수출 늘수록 ‘원재료 리스크’도 커진다",
       "preview": "",
       "source": "지디넷코리아",
@@ -17524,7 +20045,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · M&A",
       "feedId": "g-ma",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "“K-푸드, 알프스를 달렸다”…유럽 현지 소비자 이색 공략",
@@ -18518,7 +21039,7 @@ window.NEWS_DATA = {
       ],
       "feed": "구글뉴스 · K-푸드",
       "feedId": "g-kfood",
-      "collectedAt": "2026-09-12T07:01:32+09:00"
+      "collectedAt": "09/12/2026 07:01:32"
     },
     {
       "title": "SUN&L, 선앤엘인테리어 경영권 매각 추진…체질개선 목적 : 네이버 블로그",
