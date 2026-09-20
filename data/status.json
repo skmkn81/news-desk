@@ -1,18 +1,18 @@
 {
-  "lastRunAt": "2026-09-20T07:01:20+09:00",
-  "lastSuccessAt": "2026-09-20T07:01:20+09:00",
-  "rawFolder": "data/raw/2026-09-20_0701",
+  "lastRunAt": "2026-09-20T18:10:57+09:00",
+  "lastSuccessAt": "2026-09-20T18:10:57+09:00",
+  "rawFolder": "data/raw/2026-09-20_1810",
   "sourcesTotal": 11,
-  "sourcesSucceeded": 10,
-  "newArticles": 93,
-  "duplicatesSkipped": 537,
-  "totalArticles": 5426,
+  "sourcesSucceeded": 9,
+  "newArticles": 276,
+  "duplicatesSkipped": 328,
+  "totalArticles": 5702,
   "tabCounts": {
-    "ma": 294,
-    "kfood": 315,
-    "kpol": 1705,
-    "kecon": 2102,
-    "world": 1055
+    "ma": 298,
+    "kfood": 316,
+    "kpol": 1812,
+    "kecon": 2223,
+    "world": 1098
   },
   "sources": [
     {
@@ -24,7 +24,7 @@
       "skipped": false,
       "count": 100,
       "added": 4,
-      "lastSuccessAt": "2026-09-20T07:01:20+09:00",
+      "lastSuccessAt": "2026-09-20T18:10:57+09:00",
       "error": ""
     },
     {
@@ -35,8 +35,8 @@
       "ok": true,
       "skipped": false,
       "count": 100,
-      "added": 4,
-      "lastSuccessAt": "2026-09-20T07:01:20+09:00",
+      "added": 1,
+      "lastSuccessAt": "2026-09-20T18:10:57+09:00",
       "error": ""
     },
     {
@@ -47,8 +47,8 @@
       "ok": true,
       "skipped": false,
       "count": 100,
-      "added": 24,
-      "lastSuccessAt": "2026-09-20T07:01:20+09:00",
+      "added": 88,
+      "lastSuccessAt": "2026-09-20T18:10:57+09:00",
       "error": ""
     },
     {
@@ -58,9 +58,9 @@
       "url": "https://news.google.com/rss/search?q=%EC%BD%94%EC%8A%A4%ED%94%BC%20OR%20%ED%99%98%EC%9C%A8%20OR%20%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20OR%20%22%ED%95%9C%EA%B5%AD%20%EA%B2%BD%EC%A0%9C%22%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
       "skipped": false,
-      "count": 99,
-      "added": 26,
-      "lastSuccessAt": "2026-09-20T07:01:20+09:00",
+      "count": 100,
+      "added": 81,
+      "lastSuccessAt": "2026-09-20T18:10:57+09:00",
       "error": ""
     },
     {
@@ -70,9 +70,9 @@
       "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
       "skipped": false,
-      "count": 28,
-      "added": 21,
-      "lastSuccessAt": "2026-09-20T07:01:20+09:00",
+      "count": 30,
+      "added": 25,
+      "lastSuccessAt": "2026-09-20T18:10:57+09:00",
       "error": ""
     },
     {
@@ -83,8 +83,8 @@
       "ok": true,
       "skipped": false,
       "count": 50,
-      "added": 4,
-      "lastSuccessAt": "2026-09-20T07:01:20+09:00",
+      "added": 40,
+      "lastSuccessAt": "2026-09-20T18:10:57+09:00",
       "error": ""
     },
     {
@@ -95,8 +95,8 @@
       "ok": true,
       "skipped": false,
       "count": 50,
-      "added": 2,
-      "lastSuccessAt": "2026-09-20T07:01:20+09:00",
+      "added": 19,
+      "lastSuccessAt": "2026-09-20T18:10:57+09:00",
       "error": ""
     },
     {
@@ -107,8 +107,8 @@
       "ok": true,
       "skipped": false,
       "count": 50,
-      "added": 1,
-      "lastSuccessAt": "2026-09-20T07:01:20+09:00",
+      "added": 7,
+      "lastSuccessAt": "2026-09-20T18:10:57+09:00",
       "error": ""
     },
     {
@@ -116,12 +116,12 @@
       "label": "SBS · 경제 (미리보기 있음)",
       "tab": "kecon",
       "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=02",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "count": 29,
+      "count": 0,
       "added": 0,
       "lastSuccessAt": "2026-09-20T07:01:20+09:00",
-      "error": ""
+      "error": "Response status code does not indicate success: 403 (Forbidden)."
     },
     {
       "id": "bbc-world",
@@ -131,8 +131,8 @@
       "ok": true,
       "skipped": false,
       "count": 24,
-      "added": 7,
-      "lastSuccessAt": "2026-09-20T07:01:20+09:00",
+      "added": 11,
+      "lastSuccessAt": "2026-09-20T18:10:57+09:00",
       "error": ""
     },
     {
