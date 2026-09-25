@@ -1,18 +1,18 @@
 {
-  "lastRunAt": "2026-09-25T18:11:56+09:00",
-  "lastSuccessAt": "2026-09-25T18:11:56+09:00",
-  "rawFolder": "data/raw/2026-09-25_1811",
+  "lastRunAt": "2026-09-26T07:01:31+09:00",
+  "lastSuccessAt": "2026-09-26T07:01:31+09:00",
+  "rawFolder": "data/raw/2026-09-26_0701",
   "sourcesTotal": 11,
   "sourcesSucceeded": 10,
-  "newArticles": 233,
-  "duplicatesSkipped": 412,
-  "totalArticles": 8214,
+  "newArticles": 112,
+  "duplicatesSkipped": 532,
+  "totalArticles": 8326,
   "tabCounts": {
-    "ma": 388,
-    "kfood": 429,
-    "kpol": 2652,
-    "kecon": 3179,
-    "world": 1629
+    "ma": 393,
+    "kfood": 432,
+    "kpol": 2691,
+    "kecon": 3209,
+    "world": 1664
   },
   "sources": [
     {
@@ -23,8 +23,8 @@
       "ok": true,
       "skipped": false,
       "count": 100,
-      "added": 11,
-      "lastSuccessAt": "2026-09-25T18:11:56+09:00",
+      "added": 5,
+      "lastSuccessAt": "2026-09-26T07:01:31+09:00",
       "error": ""
     },
     {
@@ -35,8 +35,8 @@
       "ok": true,
       "skipped": false,
       "count": 100,
-      "added": 5,
-      "lastSuccessAt": "2026-09-25T18:11:56+09:00",
+      "added": 3,
+      "lastSuccessAt": "2026-09-26T07:01:31+09:00",
       "error": ""
     },
     {
@@ -47,8 +47,8 @@
       "ok": true,
       "skipped": false,
       "count": 100,
-      "added": 81,
-      "lastSuccessAt": "2026-09-25T18:11:56+09:00",
+      "added": 36,
+      "lastSuccessAt": "2026-09-26T07:01:31+09:00",
       "error": ""
     },
     {
@@ -59,8 +59,8 @@
       "ok": true,
       "skipped": false,
       "count": 100,
-      "added": 63,
-      "lastSuccessAt": "2026-09-25T18:11:56+09:00",
+      "added": 27,
+      "lastSuccessAt": "2026-09-26T07:01:31+09:00",
       "error": ""
     },
     {
@@ -70,9 +70,9 @@
       "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
       "skipped": false,
-      "count": 35,
-      "added": 20,
-      "lastSuccessAt": "2026-09-25T18:11:56+09:00",
+      "count": 32,
+      "added": 15,
+      "lastSuccessAt": "2026-09-26T07:01:31+09:00",
       "error": ""
     },
     {
@@ -83,8 +83,8 @@
       "ok": true,
       "skipped": false,
       "count": 50,
-      "added": 9,
-      "lastSuccessAt": "2026-09-25T18:11:56+09:00",
+      "added": 3,
+      "lastSuccessAt": "2026-09-26T07:01:31+09:00",
       "error": ""
     },
     {
@@ -95,8 +95,8 @@
       "ok": true,
       "skipped": false,
       "count": 50,
-      "added": 16,
-      "lastSuccessAt": "2026-09-25T18:11:56+09:00",
+      "added": 3,
+      "lastSuccessAt": "2026-09-26T07:01:31+09:00",
       "error": ""
     },
     {
@@ -107,8 +107,8 @@
       "ok": true,
       "skipped": false,
       "count": 50,
-      "added": 14,
-      "lastSuccessAt": "2026-09-25T18:11:56+09:00",
+      "added": 9,
+      "lastSuccessAt": "2026-09-26T07:01:31+09:00",
       "error": ""
     },
     {
@@ -119,8 +119,8 @@
       "ok": true,
       "skipped": false,
       "count": 29,
-      "added": 7,
-      "lastSuccessAt": "2026-09-25T18:11:56+09:00",
+      "added": 0,
+      "lastSuccessAt": "2026-09-26T07:01:31+09:00",
       "error": ""
     },
     {
@@ -130,9 +130,9 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
       "skipped": false,
-      "count": 31,
-      "added": 7,
-      "lastSuccessAt": "2026-09-25T18:11:56+09:00",
+      "count": 33,
+      "added": 11,
+      "lastSuccessAt": "2026-09-26T07:01:31+09:00",
       "error": ""
     },
     {
