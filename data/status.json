@@ -1,18 +1,18 @@
 {
-  "lastRunAt": "2026-10-05T07:02:58+09:00",
-  "lastSuccessAt": "2026-10-05T07:02:58+09:00",
-  "rawFolder": "data/raw/2026-10-05_0702",
+  "lastRunAt": "2026-10-05T18:14:18+09:00",
+  "lastSuccessAt": "2026-10-05T18:14:18+09:00",
+  "rawFolder": "data/raw/2026-10-05_1814",
   "sourcesTotal": 11,
   "sourcesSucceeded": 10,
-  "newArticles": 183,
-  "duplicatesSkipped": 452,
-  "totalArticles": 12733,
+  "newArticles": 289,
+  "duplicatesSkipped": 366,
+  "totalArticles": 13022,
   "tabCounts": {
-    "ma": 568,
-    "kfood": 626,
-    "kpol": 4222,
-    "kecon": 4895,
-    "world": 2520
+    "ma": 573,
+    "kfood": 634,
+    "kpol": 4328,
+    "kecon": 5009,
+    "world": 2578
   },
   "sources": [
     {
@@ -23,8 +23,8 @@
       "ok": true,
       "skipped": false,
       "count": 100,
-      "added": 1,
-      "lastSuccessAt": "2026-10-05T07:02:58+09:00",
+      "added": 5,
+      "lastSuccessAt": "2026-10-05T18:14:18+09:00",
       "error": ""
     },
     {
@@ -35,8 +35,8 @@
       "ok": true,
       "skipped": false,
       "count": 100,
-      "added": 3,
-      "lastSuccessAt": "2026-10-05T07:02:58+09:00",
+      "added": 8,
+      "lastSuccessAt": "2026-10-05T18:14:18+09:00",
       "error": ""
     },
     {
@@ -47,8 +47,8 @@
       "ok": true,
       "skipped": false,
       "count": 100,
-      "added": 88,
-      "lastSuccessAt": "2026-10-05T07:02:58+09:00",
+      "added": 93,
+      "lastSuccessAt": "2026-10-05T18:14:18+09:00",
       "error": ""
     },
     {
@@ -59,8 +59,8 @@
       "ok": true,
       "skipped": false,
       "count": 100,
-      "added": 58,
-      "lastSuccessAt": "2026-10-05T07:02:58+09:00",
+      "added": 76,
+      "lastSuccessAt": "2026-10-05T18:14:18+09:00",
       "error": ""
     },
     {
@@ -70,9 +70,9 @@
       "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
       "skipped": false,
-      "count": 34,
-      "added": 27,
-      "lastSuccessAt": "2026-10-05T07:02:58+09:00",
+      "count": 54,
+      "added": 40,
+      "lastSuccessAt": "2026-10-05T18:14:18+09:00",
       "error": ""
     },
     {
@@ -83,8 +83,8 @@
       "ok": true,
       "skipped": false,
       "count": 50,
-      "added": 1,
-      "lastSuccessAt": "2026-10-05T07:02:58+09:00",
+      "added": 25,
+      "lastSuccessAt": "2026-10-05T18:14:18+09:00",
       "error": ""
     },
     {
@@ -95,8 +95,8 @@
       "ok": true,
       "skipped": false,
       "count": 50,
-      "added": 0,
-      "lastSuccessAt": "2026-10-05T07:02:58+09:00",
+      "added": 13,
+      "lastSuccessAt": "2026-10-05T18:14:18+09:00",
       "error": ""
     },
     {
@@ -107,8 +107,8 @@
       "ok": true,
       "skipped": false,
       "count": 50,
-      "added": 0,
-      "lastSuccessAt": "2026-10-05T07:02:58+09:00",
+      "added": 8,
+      "lastSuccessAt": "2026-10-05T18:14:18+09:00",
       "error": ""
     },
     {
@@ -119,8 +119,8 @@
       "ok": true,
       "skipped": false,
       "count": 29,
-      "added": 2,
-      "lastSuccessAt": "2026-10-05T07:02:58+09:00",
+      "added": 13,
+      "lastSuccessAt": "2026-10-05T18:14:18+09:00",
       "error": ""
     },
     {
@@ -131,8 +131,8 @@
       "ok": true,
       "skipped": false,
       "count": 22,
-      "added": 3,
-      "lastSuccessAt": "2026-10-05T07:02:58+09:00",
+      "added": 8,
+      "lastSuccessAt": "2026-10-05T18:14:18+09:00",
       "error": ""
     },
     {
