@@ -1,18 +1,18 @@
 {
-  "lastRunAt": "2026-11-15T10:23:18+09:00",
-  "lastSuccessAt": "2026-11-15T10:23:18+09:00",
-  "rawFolder": "data/raw/2026-11-15_1023",
+  "lastRunAt": "2026-11-16T01:06:23+09:00",
+  "lastSuccessAt": "2026-11-16T01:06:23+09:00",
+  "rawFolder": "data/raw/2026-11-16_0106",
   "sourcesTotal": 11,
-  "sourcesSucceeded": 10,
-  "newArticles": 151,
-  "duplicatesSkipped": 479,
-  "totalArticles": 16650,
+  "sourcesSucceeded": 2,
+  "newArticles": 17,
+  "duplicatesSkipped": 37,
+  "totalArticles": 16259,
   "tabCounts": {
-    "ma": 789,
-    "kfood": 738,
-    "kpol": 5454,
-    "kecon": 6745,
-    "world": 3050
+    "ma": 777,
+    "kfood": 711,
+    "kpol": 5302,
+    "kecon": 6598,
+    "world": 2994
   },
   "sources": [
     {
@@ -20,96 +20,96 @@
       "label": "구글뉴스 · M&A",
       "tab": "ma",
       "url": "https://news.google.com/rss/search?q=%22M%26A%22%20OR%20%EC%9D%B8%EC%88%98%ED%95%A9%EB%B3%91%20OR%20%EA%B2%BD%EC%98%81%EA%B6%8C%EB%A7%A4%EA%B0%81%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "count": 100,
-      "added": 6,
+      "count": 0,
+      "added": 0,
       "lastSuccessAt": "2026-11-15T10:23:18+09:00",
-      "error": ""
+      "error": "Response status code does not indicate success: 503 (Service Unavailable)."
     },
     {
       "id": "g-kfood",
       "label": "구글뉴스 · K-푸드",
       "tab": "kfood",
       "url": "https://news.google.com/rss/search?q=K%ED%91%B8%EB%93%9C%20OR%20%EC%BC%80%EC%9D%B4%ED%91%B8%EB%93%9C%20OR%20%22%ED%95%9C%EC%8B%9D%20%EC%88%98%EC%B6%9C%22%20OR%20%EB%9D%BC%EB%A9%B4%EC%88%98%EC%B6%9C%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "count": 100,
-      "added": 18,
+      "count": 0,
+      "added": 0,
       "lastSuccessAt": "2026-11-15T10:23:18+09:00",
-      "error": ""
+      "error": "Response status code does not indicate success: 503 (Service Unavailable)."
     },
     {
       "id": "g-kpol",
       "label": "구글뉴스 · 한국 정치",
       "tab": "kpol",
       "url": "https://news.google.com/rss/search?q=%EA%B5%AD%ED%9A%8C%20OR%20%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4%20OR%20%EC%97%AC%EC%95%BC%20OR%20%EA%B5%AD%EC%A0%95%EA%B0%90%EC%82%AC%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "count": 100,
-      "added": 46,
+      "count": 0,
+      "added": 0,
       "lastSuccessAt": "2026-11-15T10:23:18+09:00",
-      "error": ""
+      "error": "Response status code does not indicate success: 503 (Service Unavailable)."
     },
     {
       "id": "g-kecon",
       "label": "구글뉴스 · 한국 경제",
       "tab": "kecon",
       "url": "https://news.google.com/rss/search?q=%EC%BD%94%EC%8A%A4%ED%94%BC%20OR%20%ED%99%98%EC%9C%A8%20OR%20%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%20OR%20%22%ED%95%9C%EA%B5%AD%20%EA%B2%BD%EC%A0%9C%22%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "count": 100,
-      "added": 49,
+      "count": 0,
+      "added": 0,
       "lastSuccessAt": "2026-11-15T10:23:18+09:00",
-      "error": ""
+      "error": "Response status code does not indicate success: 503 (Service Unavailable)."
     },
     {
       "id": "g-world",
       "label": "구글뉴스 · 세계 헤드라인",
       "tab": "world",
       "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ko&gl=KR&ceid=KR:ko",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "count": 28,
-      "added": 9,
+      "count": 0,
+      "added": 0,
       "lastSuccessAt": "2026-11-15T10:23:18+09:00",
-      "error": ""
+      "error": "Response status code does not indicate success: 503 (Service Unavailable)."
     },
     {
       "id": "hk-econ",
       "label": "한국경제 · 경제",
       "tab": "kecon",
       "url": "https://www.hankyung.com/feed/economy",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "count": 50,
-      "added": 6,
+      "count": 0,
+      "added": 0,
       "lastSuccessAt": "2026-11-15T10:23:18+09:00",
-      "error": ""
+      "error": "Response status code does not indicate success: 403 (Forbidden)."
     },
     {
       "id": "hk-poli",
       "label": "한국경제 · 정치",
       "tab": "kpol",
       "url": "https://www.hankyung.com/feed/politics",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "count": 50,
-      "added": 1,
+      "count": 0,
+      "added": 0,
       "lastSuccessAt": "2026-11-15T10:23:18+09:00",
-      "error": ""
+      "error": "Response status code does not indicate success: 403 (Forbidden)."
     },
     {
       "id": "hk-intl",
       "label": "한국경제 · 국제",
       "tab": "world",
       "url": "https://www.hankyung.com/feed/international",
-      "ok": true,
+      "ok": false,
       "skipped": false,
-      "count": 50,
-      "added": 4,
+      "count": 0,
+      "added": 0,
       "lastSuccessAt": "2026-11-15T10:23:18+09:00",
-      "error": ""
+      "error": "Response status code does not indicate success: 403 (Forbidden)."
     },
     {
       "id": "sbs-econ",
@@ -119,8 +119,8 @@
       "ok": true,
       "skipped": false,
       "count": 29,
-      "added": 4,
-      "lastSuccessAt": "2026-11-15T10:23:18+09:00",
+      "added": 8,
+      "lastSuccessAt": "2026-11-16T01:06:23+09:00",
       "error": ""
     },
     {
@@ -130,9 +130,9 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
       "skipped": false,
-      "count": 23,
-      "added": 8,
-      "lastSuccessAt": "2026-11-15T10:23:18+09:00",
+      "count": 25,
+      "added": 9,
+      "lastSuccessAt": "2026-11-16T01:06:23+09:00",
       "error": ""
     },
     {
