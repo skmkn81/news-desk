@@ -1,18 +1,18 @@
 {
-  "lastRunAt": "2026-11-23T11:01:56+09:00",
-  "lastSuccessAt": "2026-11-23T11:01:56+09:00",
-  "rawFolder": "data/raw/2026-11-23_1101",
+  "lastRunAt": "2026-11-24T05:54:31+09:00",
+  "lastSuccessAt": "2026-11-24T05:54:31+09:00",
+  "rawFolder": "data/raw/2026-11-24_0554",
   "sourcesTotal": 11,
-  "sourcesSucceeded": 9,
-  "newArticles": 280,
-  "duplicatesSkipped": 334,
-  "totalArticles": 16821,
+  "sourcesSucceeded": 10,
+  "newArticles": 389,
+  "duplicatesSkipped": 256,
+  "totalArticles": 17016,
   "tabCounts": {
-    "ma": 801,
-    "kfood": 740,
-    "kpol": 5447,
-    "kecon": 6968,
-    "world": 2978
+    "ma": 820,
+    "kfood": 751,
+    "kpol": 5475,
+    "kecon": 7070,
+    "world": 3014
   },
   "sources": [
     {
@@ -22,9 +22,9 @@
       "url": "https://news.google.com/rss/search?q=%22M%26A%22%20OR%20%EC%9D%B8%EC%88%98%ED%95%A9%EB%B3%91%20OR%20%EA%B2%BD%EC%98%81%EA%B6%8C%EB%A7%A4%EA%B0%81%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko",
       "ok": true,
       "skipped": false,
-      "count": 100,
-      "added": 13,
-      "lastSuccessAt": "2026-11-23T11:01:56+09:00",
+      "count": 98,
+      "added": 21,
+      "lastSuccessAt": "2026-11-24T05:54:31+09:00",
       "error": ""
     },
     {
@@ -35,8 +35,8 @@
       "ok": true,
       "skipped": false,
       "count": 100,
-      "added": 10,
-      "lastSuccessAt": "2026-11-23T11:01:56+09:00",
+      "added": 15,
+      "lastSuccessAt": "2026-11-24T05:54:31+09:00",
       "error": ""
     },
     {
@@ -47,8 +47,8 @@
       "ok": true,
       "skipped": false,
       "count": 100,
-      "added": 89,
-      "lastSuccessAt": "2026-11-23T11:01:56+09:00",
+      "added": 91,
+      "lastSuccessAt": "2026-11-24T05:54:31+09:00",
       "error": ""
     },
     {
@@ -59,8 +59,8 @@
       "ok": true,
       "skipped": false,
       "count": 100,
-      "added": 94,
-      "lastSuccessAt": "2026-11-23T11:01:56+09:00",
+      "added": 89,
+      "lastSuccessAt": "2026-11-24T05:54:31+09:00",
       "error": ""
     },
     {
@@ -68,12 +68,12 @@
       "label": "구글뉴스 · 세계 헤드라인",
       "tab": "world",
       "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ko&gl=KR&ceid=KR:ko",
-      "ok": false,
+      "ok": true,
       "skipped": false,
-      "count": 0,
-      "added": 0,
-      "lastSuccessAt": "2026-11-23T01:55:11+09:00",
-      "error": "Response status code does not indicate success: 429 (Too Many Requests)."
+      "count": 35,
+      "added": 35,
+      "lastSuccessAt": "2026-11-24T05:54:31+09:00",
+      "error": ""
     },
     {
       "id": "hk-econ",
@@ -83,8 +83,8 @@
       "ok": true,
       "skipped": false,
       "count": 50,
-      "added": 34,
-      "lastSuccessAt": "2026-11-23T11:01:56+09:00",
+      "added": 41,
+      "lastSuccessAt": "2026-11-24T05:54:31+09:00",
       "error": ""
     },
     {
@@ -95,8 +95,8 @@
       "ok": true,
       "skipped": false,
       "count": 50,
-      "added": 8,
-      "lastSuccessAt": "2026-11-23T11:01:56+09:00",
+      "added": 37,
+      "lastSuccessAt": "2026-11-24T05:54:31+09:00",
       "error": ""
     },
     {
@@ -107,8 +107,8 @@
       "ok": true,
       "skipped": false,
       "count": 50,
-      "added": 14,
-      "lastSuccessAt": "2026-11-23T11:01:56+09:00",
+      "added": 27,
+      "lastSuccessAt": "2026-11-24T05:54:31+09:00",
       "error": ""
     },
     {
@@ -119,8 +119,8 @@
       "ok": true,
       "skipped": false,
       "count": 29,
-      "added": 12,
-      "lastSuccessAt": "2026-11-23T11:01:56+09:00",
+      "added": 16,
+      "lastSuccessAt": "2026-11-24T05:54:31+09:00",
       "error": ""
     },
     {
@@ -130,9 +130,9 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
       "skipped": false,
-      "count": 35,
-      "added": 6,
-      "lastSuccessAt": "2026-11-23T11:01:56+09:00",
+      "count": 33,
+      "added": 17,
+      "lastSuccessAt": "2026-11-24T05:54:31+09:00",
       "error": ""
     },
     {
